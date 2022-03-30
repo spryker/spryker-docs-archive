@@ -1,10 +1,9 @@
-# Spryker documentation
+# Spryker documentation archive
 
-This repository contains the documentation for the [Spryker documentation portal](https://docs.spryker.com).
+This repository contains the documentation for previous [releases](https://docs.spryker.com/docs/scos/user/intro-to-spryker/releases/releases.html#release-history). For the current documentation version, see [Spryker documentation](https://github.com/spryker/spryker-docs).
 
-Your contribution to the documentation is more than welcome!
+## Contribute to the documentation
 
-To contribute, do the following:
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to propose changes.
 3. In your forked repository, go to the `docs` directory.
 4. Open the document you want to edit.
