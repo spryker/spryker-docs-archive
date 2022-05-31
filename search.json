@@ -1,0 +1,20 @@
+---
+title: search
+layout: none
+search: exclude
+---
+
+[
+{% for page in site.pages %}
+{% unless page.search == "exclude" %}
+{
+"title": "{{ page.title | escape }}",
+"url": "{{ page.url }}",
+"content": "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}",
+"excerpt": "{{ page.content | strip_html | strip_newlines | remove_chars | escape | truncatewords: 50 }}"
+}
+{% unless forloop.last and site.posts.size < 1 %},{% endunless %}
+{% endunless %}
+{% endfor %}
+
+]
