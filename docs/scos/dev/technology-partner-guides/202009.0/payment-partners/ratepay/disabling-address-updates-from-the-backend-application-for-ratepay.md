@@ -1,5 +1,6 @@
 ---
 title: Disabling address updates from the backend application for RatePay
+search: exclude
 description: Disable address updates from the backend application for Ratepay.
 last_updated: Aug 27, 2020
 template: concept-topic-template

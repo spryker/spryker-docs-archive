@@ -1,5 +1,6 @@
 ---
 title: Payolution request flow
+search: exclude
 description: This article describes the request flow for Payolution.
 last_updated: Oct 23, 2019
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Shared Carts feature walkthrough
+search: exclude
 last_updated: Aug 20, 2021
 description: The Shared Carts features allows sharing carts between company users.
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Gift Cards feature overview
+search: exclude
 last_updated: Sep 29, 2021
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v1/docs/gift-cards-purchase-redeeming

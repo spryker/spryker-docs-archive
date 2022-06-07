@@ -1,5 +1,6 @@
 ---
 title: Inventory Management feature overview
+search: exclude
 description: Learn how you can manage warehouse, stock, and availability with the Inventory Management feature
 last_updated: Jul 31, 2020
 template: concept-topic-template

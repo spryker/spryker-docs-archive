@@ -1,5 +1,6 @@
 ---
 title: Getting Abstract Product List Content Item Data
+search: exclude
 last_updated: Jan 27, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/getting-abstract-product-list-content-item-data-201907

@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring Episerver
+search: exclude
 description: Install and configure Episerver into Spryker Commerce OS
 last_updated: Jun 16, 2021
 template: howto-guide-template

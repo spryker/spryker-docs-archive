@@ -1,5 +1,6 @@
 ---
 title: Approval Process Feature Overview
+search: exclude
 description: This topic provides a detailed overview of the Approval Process feature.
 last_updated: Jul 31, 2020
 template: concept-topic-template

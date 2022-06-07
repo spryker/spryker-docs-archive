@@ -1,5 +1,6 @@
 ---
 title: Multiple Carts feature overview
+search: exclude
 description: Shopping Cart is where the record of the items a buyer has ‘picked up’ from the online store is kept. Select products, review them and add more with ease.
 last_updated: May 12, 2021
 template: concept-topic-template

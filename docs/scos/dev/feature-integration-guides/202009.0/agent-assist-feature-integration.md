@@ -1,5 +1,6 @@
 ---
 title: Agent Assist feature integration
+search: exclude
 description: Agent Assist enables agent users to log in to shop to perform actions on customers’ behalf. This guide describes how to install Agent Assist in your project.
 last_updated: Apr 9, 2021
 template: feature-integration-guide-template

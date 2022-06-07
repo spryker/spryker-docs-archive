@@ -1,5 +1,6 @@
 ---
 title: Viewing Dashboard
+search: exclude
 description: The dashboard provides an overview of basic order-related statistics. This page presents you with a summary of order counts, order statuses, top products.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

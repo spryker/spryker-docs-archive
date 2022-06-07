@@ -1,5 +1,6 @@
 ---
 title: Editing user groups
+search: exclude
 description: Learn how to edit user groups in the Back Office
 template: back-office-user-guide-template
 ---

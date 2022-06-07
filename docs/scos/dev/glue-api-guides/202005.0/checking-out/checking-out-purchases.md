@@ -1,5 +1,6 @@
 ---
 title: Checking Out Purchases and Getting Checkout Data
+search: exclude
 description: This article will help you set up the endpoint functionality for creating checkout experience, like placing orders and retrieving checkout information.
 last_updated: Oct 23, 2020
 template: glue-api-storefront-guide-template

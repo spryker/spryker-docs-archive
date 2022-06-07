@@ -1,5 +1,6 @@
 ---
 title: Installing the Product CMS Block
+search: exclude
 description: The guide describes the process of installing the Product CMS Block into your project.
 last_updated: Jul 31, 2019
 template: feature-integration-guide-template

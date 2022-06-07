@@ -1,5 +1,6 @@
 ---
 title: PayOne - State Machine Commands, Conditions and Events
+search: exclude
 description: This article includes the state machine commands and conditions provided by Payone.
 last_updated: Apr 3, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Merchants
+search: exclude
 description: The section can be used to set up merchant relations and create merchants based on the contract conditions in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

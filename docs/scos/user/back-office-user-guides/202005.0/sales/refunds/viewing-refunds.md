@@ -1,5 +1,6 @@
 ---
 title: Viewing Refunds
+search: exclude
 description: The article provides reference information about attributes Back Office users see when viewing the list of refunds.
 last_updated: Jun 5, 2020
 template: back-office-user-guide-template

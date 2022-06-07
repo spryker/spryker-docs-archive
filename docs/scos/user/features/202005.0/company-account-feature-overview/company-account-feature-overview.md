@@ -1,5 +1,6 @@
 ---
 title: Company Account feature overview
+search: exclude
 description: With the feature, you can easily manage the company structure and set roles, users, and permissions.
 last_updated: Nov 18, 2020
 template: concept-topic-template

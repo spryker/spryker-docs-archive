@@ -1,5 +1,6 @@
 ---
 title: Sales Data Export feature integration
+search: exclude
 description: Integrate the Sales Data Export feature into your project.
 last_updated: Aug 27, 2020
 template: feature-integration-guide-template

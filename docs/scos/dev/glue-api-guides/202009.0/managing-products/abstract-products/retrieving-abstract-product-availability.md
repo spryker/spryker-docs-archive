@@ -1,5 +1,6 @@
 ---
 title: Retrieving abstract product availability
+search: exclude
 description: Retrieve information about availability of abstract products.
 last_updated: Feb 2, 2021
 template: glue-api-storefront-guide-template

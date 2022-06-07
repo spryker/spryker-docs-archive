@@ -1,5 +1,6 @@
 ---
 title: Reference information- Customer module overview
+search: exclude
 description: This article describes how new customers can be created and managed and how to enable specific features related to customers.
 last_updated: Jan 28, 2021
 template: feature-walkthrough-template

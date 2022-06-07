@@ -1,5 +1,6 @@
 ---
 title: Episerver API
+search: exclude
 description: Learn about the API requests for Episerver in Spryker.
 last_updated: Jun 16, 2021
 template: howto-guide-template

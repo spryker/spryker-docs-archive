@@ -1,5 +1,6 @@
 ---
 title: Prices feature walkthrough
+search: exclude
 last_updated: Aug 18, 2021
 description: The Prices feature enables Back Office users to effectively manage the prices of all types of products
 template: concept-topic-template

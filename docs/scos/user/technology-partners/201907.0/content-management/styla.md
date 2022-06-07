@@ -1,5 +1,6 @@
 ---
 title: Styla
+search: exclude
 description: Design content and make it shoppable and inspiring customers to buy more by integrating  Styla into Spryker Commerce OS.
 last_updated: Nov 22, 2019
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: CrefoPay
+search: exclude
 template: concept-topic-template
 ---
 

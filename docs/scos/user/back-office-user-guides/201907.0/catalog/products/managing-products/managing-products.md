@@ -1,5 +1,6 @@
 ---
 title: Managing Products
+search: exclude
 description: Use this guide to view product details, activate or update product attributes in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

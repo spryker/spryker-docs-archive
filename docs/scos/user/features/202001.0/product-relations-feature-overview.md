@@ -1,5 +1,6 @@
 ---
 title: Product Relations Feature Overview
+search: exclude
 description: Product relations helps shop owners to promote the related goods as well as to point the customers' attention on the goods that they may also want to see.
 last_updated: Jan 13, 2020
 template: concept-topic-template

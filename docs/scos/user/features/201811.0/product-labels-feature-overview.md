@@ -1,5 +1,6 @@
 ---
 title: Product Labels feature overview
+search: exclude
 last_updated: Jun 4, 2019
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v1/docs/product-label

@@ -1,5 +1,6 @@
 ---
 title: PayOne - Invoice Payment
+search: exclude
 description: Integrate invoice payment through Payone into the Spryker-based shop.
 last_updated: Aug 27, 2020
 template: concept-topic-template

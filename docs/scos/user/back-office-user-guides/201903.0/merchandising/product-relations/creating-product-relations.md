@@ -1,5 +1,6 @@
 ---
 title: Creating Product Relations
+search: exclude
 description: Use this procedure to create a product relation and enter all the required values in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

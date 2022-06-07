@@ -1,5 +1,6 @@
 ---
 title: Resource Sharing feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: Resource Sharing is a generic feature that allows creating a unique URL for any entity in the Spyker Commerce OS.
 template: concept-topic-template

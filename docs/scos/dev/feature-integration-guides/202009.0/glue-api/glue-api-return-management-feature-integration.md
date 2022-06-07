@@ -1,5 +1,6 @@
 ---
 title: Glue API - Return management feature integration
+search: exclude
 description: This integration guide provides step-by-step instructions on integrating Glue API - Return Management feature into your project.
 last_updated: Sep 8, 2020
 template: feature-integration-guide-template

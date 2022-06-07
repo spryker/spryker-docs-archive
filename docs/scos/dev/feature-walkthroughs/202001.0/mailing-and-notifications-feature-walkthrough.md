@@ -1,5 +1,6 @@
 ---
 title:  Mailing & Notifications feature walkthrough
+search: exclude
 last_updated: Aug 13, 2021
 description: The Mailing & Notifications feature allows you to manage newsletters and notifications
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Product Relations feature overview
+search: exclude
 description: Product Relations is a feature that allows grouping products by attributes for easier navigation and accessibility.
 last_updated: Aug 27, 2020
 template: concept-topic-template

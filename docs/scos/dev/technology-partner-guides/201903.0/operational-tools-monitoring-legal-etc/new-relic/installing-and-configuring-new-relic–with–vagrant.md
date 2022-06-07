@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring New Relic with Vagrant
+search: exclude
 template: howto-guide-template
 redirect_from:
   - /docs/scos/dev/technology-partner-guides/201903.0/operational-tools-monitoring-legal-etc/new-relic/installing-and-configuring-new-relic–with���vagrant.html

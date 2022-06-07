@@ -1,5 +1,6 @@
 ---
 title: Spryker Core feature overview
+search: exclude
 template: concept-topic-template
 ---
 

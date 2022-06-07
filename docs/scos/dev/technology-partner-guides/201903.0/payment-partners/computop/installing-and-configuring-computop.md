@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring Computop
+search: exclude
 last_updated: Nov 4, 2020
 template: howto-guide-template
 ---

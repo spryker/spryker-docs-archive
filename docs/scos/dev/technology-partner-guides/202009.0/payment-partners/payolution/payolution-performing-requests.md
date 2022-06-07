@@ -1,5 +1,6 @@
 ---
 title: Payolution - Performing Requests
+search: exclude
 description: This article includes the state machine commands and conditions provided by Payolution.
 last_updated: Aug 27, 2020
 template: concept-topic-template

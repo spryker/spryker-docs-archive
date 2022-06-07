@@ -1,5 +1,6 @@
 ---
 title: Quick Add to Cart feature integration
+search: exclude
 description: This guide walks you through the process of integrating the Quick Order feature into your project.
 last_updated: Aug 12, 2020
 template: feature-integration-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Reference information - Search Preferences
+search: exclude
 description: This guide provides an additional procedure to synchronize search preferences in the Back Office.
 last_updated: Oct 28, 2019
 template: back-office-user-guide-template

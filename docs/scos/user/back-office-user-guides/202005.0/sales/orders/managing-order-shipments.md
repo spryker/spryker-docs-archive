@@ -1,5 +1,6 @@
 ---
 title: Managing Order Shipments
+search: exclude
 description: The guide provides steps on how to view and update delivery address, shipment method and delivery dates for the shipment, create a shipment in the Back Office.
 last_updated: Jun 5, 2020
 template: back-office-user-guide-template

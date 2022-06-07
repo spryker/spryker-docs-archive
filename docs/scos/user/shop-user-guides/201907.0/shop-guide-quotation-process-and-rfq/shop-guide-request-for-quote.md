@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Request for Quote
+search: exclude
 description: The section can be used when a buyer and a sales representative can negotiate a better price on products in the cart.
 last_updated: Nov 22, 2019
 template: howto-guide-template

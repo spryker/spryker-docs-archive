@@ -1,5 +1,6 @@
 ---
 title: Token Description Tables
+search: exclude
 description: This guide provides reference information in tables about fields and value types, operators you enter when creating a plain query.
 last_updated: Oct 23, 2019
 template: back-office-user-guide-template

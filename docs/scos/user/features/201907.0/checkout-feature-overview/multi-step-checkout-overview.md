@@ -1,5 +1,6 @@
 ---
 title: Checkout Steps
+search: exclude
 description: This topic provides information about all checkout steps available for the customers.
 last_updated: Nov 22, 2019
 template: concept-topic-template

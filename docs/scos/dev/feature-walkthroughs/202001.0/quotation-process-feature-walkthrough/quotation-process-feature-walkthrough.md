@@ -1,5 +1,6 @@
 ---
 title: Quotation Process feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Quotation Process feature adds functionality that allows customers to request special product prices and lets agents manage those quote requests.
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Content item types- module relations
+search: exclude
 description: Learn about all the content item types and module relations used for them.
 last_updated: Aug 27, 2020
 template: feature-walkthrough-template

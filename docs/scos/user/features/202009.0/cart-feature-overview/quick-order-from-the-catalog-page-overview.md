@@ -1,5 +1,6 @@
 ---
 title: Quick order from the catalog page overview
+search: exclude
 description: The Quick Order from the Catalog Page Feature allows Buyers to add products with one product variant to cart directly from the Category page.
 last_updated: Jun 2, 2021
 template: concept-topic-template

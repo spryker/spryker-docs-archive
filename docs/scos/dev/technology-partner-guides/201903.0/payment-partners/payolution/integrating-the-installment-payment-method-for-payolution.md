@@ -1,5 +1,6 @@
 ---
 title: Integrating the installment payment method for Payolution
+search: exclude
 description: Integrate installment payment through Payolution into the Spryker-based shop.
 last_updated: Nov 22, 2019
 template: concept-topic-template

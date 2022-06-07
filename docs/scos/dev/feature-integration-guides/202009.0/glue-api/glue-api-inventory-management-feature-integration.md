@@ -1,5 +1,6 @@
 ---
 title: Glue API - Inventory Management feature integration
+search: exclude
 description: Learn how to integrate the Inventory Management feature API into a Spryker project.
 last_updated: May 18, 2021
 template: feature-integration-guide-template

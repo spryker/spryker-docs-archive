@@ -1,5 +1,6 @@
 ---
 title: Managing navigation elements
+search: exclude
 description: Use these procedures to create, edit, activate or deactivate a child node, view and manage a navigation tree and create the new navigation in the Back Office.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

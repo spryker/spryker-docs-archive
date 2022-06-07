@@ -1,5 +1,6 @@
 ---
 title: Editing an Abstract Product
+search: exclude
 description: The guide walks you through the procedure of updating an abstract product in the Back Office.
 last_updated: Feb 4, 2020
 template: back-office-user-guide-template

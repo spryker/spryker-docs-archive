@@ -1,5 +1,6 @@
 ---
 title: Authenticating as a company user
+search: exclude
 description: Learn how to authenticate as a company user via Glue API.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Creating product attributes
+search: exclude
 description: Learn how to create product attributes in the Back Office.
 last_updated: Apr 22, 2021
 template: back-office-user-guide-template

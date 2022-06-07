@@ -1,5 +1,6 @@
 ---
 title: Claranet
+search: exclude
 description: Integrate Claranet hosting solution to host Spryker-based project.
 last_updated: Apr 3, 2020
 template: concept-topic-template

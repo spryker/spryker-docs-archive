@@ -1,5 +1,6 @@
 ---
 title: Docker SDK configuration reference
+search: exclude
 description: Instructions for the most common configuration cases of the Docker SDK.
 last_updated: Jun 3, 2021
 template: howto-guide-template

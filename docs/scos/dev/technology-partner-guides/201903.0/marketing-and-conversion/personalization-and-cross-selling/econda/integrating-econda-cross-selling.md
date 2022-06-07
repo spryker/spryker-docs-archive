@@ -1,5 +1,6 @@
 ---
 title: Integrating Econda cross-selling
+search: exclude
 description: Learn how to integrate Econda cross-selling
 last_updated: Jun 16, 2021
 template: howto-guide-template

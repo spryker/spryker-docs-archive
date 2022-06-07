@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Managing Comments
+search: exclude
 description: Use the procedures to add a comment to cart, edit comments, add tags to comments to filter them by tags, and/or removed comments from the cart.
 last_updated: Nov 22, 2019
 template: howto-guide-template

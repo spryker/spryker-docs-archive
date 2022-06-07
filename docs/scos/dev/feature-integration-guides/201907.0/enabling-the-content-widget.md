@@ -1,5 +1,6 @@
 ---
 title: Enabling the Content Widget
+search: exclude
 description: The guide walks you through the process of installing the Content Widget feature in the project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

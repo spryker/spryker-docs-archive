@@ -1,5 +1,6 @@
 ---
 title: Reference information - Slots
+search: exclude
 description: The article provides reference information you see when working with creating and managing slots in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Spyker Core Back Office feature integration
+search: exclude
 description: Learn how to add the Translation functionality to the basic Back Office feature. This guide provides step-by-step instructions for the integration process.
 last_updated: Apr 24, 2020
 template: feature-integration-guide-template

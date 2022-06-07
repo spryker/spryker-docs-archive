@@ -1,5 +1,6 @@
 ---
 title: Choosing the Right Suite for You
+search: exclude
 last_updated: Nov 22, 2019
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v3/docs/choosing-the-right-suite-for-you

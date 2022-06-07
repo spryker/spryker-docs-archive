@@ -1,5 +1,6 @@
 ---
 title: Configurable Bundle feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Configurable Bundle feature allows creating a configurable list of items.
 template: concept-topic-template

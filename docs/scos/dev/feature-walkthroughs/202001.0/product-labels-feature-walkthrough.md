@@ -1,5 +1,6 @@
 ---
 title: Product Labels feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Product Labels feature enables product catalog managers to highlight the desired products by adding a special type of information - product labels.
 template: concept-topic-template

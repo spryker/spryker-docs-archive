@@ -1,5 +1,6 @@
 ---
 title: trbo
+search: exclude
 description: Enable online shops and websites to address visitors individually - onsite, in real-time and fully automated by integrating trbo into the Spryker Commerce OS.
 last_updated: Jan 25, 2020
 template: concept-topic-template

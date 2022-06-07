@@ -1,5 +1,6 @@
 ---
 title: Product Labels
+search: exclude
 description: Use the Product Labels section to highlight specific products in your online store by adding a prodcut label in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Managing Search Preferences
+search: exclude
 description: Use the procedure to customize search by product attributes and specify search preference types in the online shop.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

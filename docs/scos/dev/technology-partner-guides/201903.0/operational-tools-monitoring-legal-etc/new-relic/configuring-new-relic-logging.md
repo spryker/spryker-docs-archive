@@ -1,5 +1,6 @@
 ---
 title: Configuring New Relic logging
+search: exclude
 template: howto-guide-template
 ---
 

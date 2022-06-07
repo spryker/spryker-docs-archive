@@ -1,5 +1,6 @@
 ---
 title: Customer Groups Overview
+search: exclude
 description: The Customer Groups feature allows you to organize customers into groups to help you target users for discounts and promotions.
 last_updated: Feb 9, 2021
 template: concept-topic-template

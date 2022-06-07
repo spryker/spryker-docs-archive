@@ -1,5 +1,6 @@
 ---
 title: Retrieving Banner Content Item Data
+search: exclude
 description: Banner API implements REST API endpoint that can retrieve banner content item data available in the storage for all or a specific locale
 last_updated: Sep 14, 2020
 template: glue-api-storefront-guide-template

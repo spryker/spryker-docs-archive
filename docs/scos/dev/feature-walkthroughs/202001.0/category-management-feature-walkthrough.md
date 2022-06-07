@@ -1,5 +1,6 @@
 ---
 title: Category Management feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Category Management feature allows you to manage your product catalog with customized categories, category pages, and filters.
 template: concept-topic-template

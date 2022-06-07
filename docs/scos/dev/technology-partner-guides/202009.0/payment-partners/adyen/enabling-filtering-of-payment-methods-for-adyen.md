@@ -1,5 +1,6 @@
 ---
 title: Enabling filtering of payment methods for Ayden
+search: exclude
 description: Enable filtering available payment methods depending on the result of /paymentMethods API call in the Spryker Commerce OS.
 last_updated: Aug 27, 2020
 template: concept-topic-template

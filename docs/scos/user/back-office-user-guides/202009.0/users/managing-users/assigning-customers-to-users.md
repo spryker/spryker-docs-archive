@@ -1,5 +1,6 @@
 ---
 title: Assigning and deassigning customers from users
+search: exclude
 description: Learn how to assign customers to Back Office users
 last_updated: Aug 2, 2021
 template: back-office-user-guide-template

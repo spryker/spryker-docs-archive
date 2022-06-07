@@ -1,5 +1,6 @@
 ---
 title: Features
+search: exclude
 last_updated: Nov 27, 2019
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v3/docs/about-features

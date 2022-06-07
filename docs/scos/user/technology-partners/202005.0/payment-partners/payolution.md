@@ -1,5 +1,6 @@
 ---
 title: Payolution
+search: exclude
 description: Provide invoice, installment, monthly invoice, and direct debit solutions by integrating Payolution into the Spryker Commerce OS.
 last_updated: Sep 15, 2020
 template: concept-topic-template

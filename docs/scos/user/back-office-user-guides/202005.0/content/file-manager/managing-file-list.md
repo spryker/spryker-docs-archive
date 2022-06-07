@@ -1,5 +1,6 @@
 ---
 title: Managing File List
+search: exclude
 description: Use the procedures to view, edit, and delete files from the system in the Back Office.
 last_updated: Jun 10, 2020
 template: back-office-user-guide-template

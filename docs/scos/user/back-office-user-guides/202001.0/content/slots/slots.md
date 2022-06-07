@@ -1,5 +1,6 @@
 ---
 title: Slots
+search: exclude
 description: The article provides some general information about slots and actions you can perform on them in the Back Office.
 last_updated: Mar 26, 2020
 template: back-office-user-guide-template

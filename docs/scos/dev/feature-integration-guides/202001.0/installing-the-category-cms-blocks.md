@@ -1,5 +1,6 @@
 ---
 title: Installing the Category CMS Blocks
+search: exclude
 description: The guide describes the process of installing the Category CMS Block in your project.
 last_updated: Jan 28, 2020
 template: feature-integration-guide-template

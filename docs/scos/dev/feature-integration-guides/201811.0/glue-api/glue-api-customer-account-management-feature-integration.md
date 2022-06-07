@@ -1,5 +1,6 @@
 ---
 title: Glue API - Customer feature integration
+search: exclude
 description: This guide will navigate through the process of installing and configuring of the Customer API feature used in Spryker OS.
 last_updated: Nov 4, 2019
 template: feature-integration-guide-template

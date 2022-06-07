@@ -1,5 +1,6 @@
 ---
 title: Content Management System
+search: exclude
 description: The section is designed to create and manage the content of your shop in the Back Office.
 last_updated: Jan 13, 2020
 template: back-office-user-guide-template

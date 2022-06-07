@@ -1,5 +1,6 @@
 ---
 title: Glossary
+search: exclude
 description: The section is used to create translations for a new locale or update the existing ones in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

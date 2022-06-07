@@ -1,5 +1,6 @@
 ---
 title: Retrieving Product Information
+search: exclude
 description: This article explains how to get various information and resources of an abstract or concrete product, such as availability, price, taxes, and image sets.
 last_updated: Apr 27, 2020
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring FACT-Finder
+search: exclude
 description: This article provides details on the installation and configuration of the FACT-Finder module.
 template: howto-guide-template
 ---

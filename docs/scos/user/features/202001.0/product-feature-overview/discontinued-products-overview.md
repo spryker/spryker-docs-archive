@@ -1,5 +1,6 @@
 ---
 title: Discontinued Products overview
+search: exclude
 description: Discontinued products are shown during a certain period of time after the manufacturer or a distributor announces that the product is no longer produced.
 last_updated: Nov 22, 2019
 template: concept-topic-template

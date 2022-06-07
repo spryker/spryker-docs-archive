@@ -1,5 +1,6 @@
 ---
 title: Reference information - CMS Block
+search: exclude
 description: The guide provides reference information you need when managing CMS blocks in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

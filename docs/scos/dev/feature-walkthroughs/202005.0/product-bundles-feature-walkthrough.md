@@ -1,5 +1,6 @@
 ---
 title: Product Bundles feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Product Bundles feature allows you to tie individual items together and sell them as a package.
 

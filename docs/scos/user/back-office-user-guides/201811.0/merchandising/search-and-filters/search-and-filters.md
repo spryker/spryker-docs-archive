@@ -1,5 +1,6 @@
 ---
 title: Search and Filters
+search: exclude
 description: The article introduces an overview of Search and Filter that enables shop owners to handle and customize search and filtering preferences in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

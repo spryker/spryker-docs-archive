@@ -1,5 +1,6 @@
 ---
 title: Using FACT-Finder search suggestions
+search: exclude
 description: The FACT-Finder Suggest module enables you to provide customers with suggested search terms while they are entering a search term.
 last_updated: Jan 17, 2020
 template: howto-guide-template

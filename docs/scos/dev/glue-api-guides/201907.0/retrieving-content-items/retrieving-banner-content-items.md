@@ -1,5 +1,6 @@
 ---
 title: Retrieving Banner Content Item Data
+search: exclude
 last_updated: Jan 27, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/retrieving-banner-content-item-data-201907

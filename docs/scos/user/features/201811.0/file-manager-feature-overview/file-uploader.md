@@ -1,5 +1,6 @@
 ---
 title: File Uploader
+search: exclude
 description: File Uploader feature allows a Store Administrator to upload files in accordance to their specifications for a file type to the Back Office.
 last_updated: May 19, 2020
 template: concept-topic-template

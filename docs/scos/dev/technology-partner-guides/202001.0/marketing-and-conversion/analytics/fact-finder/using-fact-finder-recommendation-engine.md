@@ -1,5 +1,6 @@
 ---
 title: Using FACT-Finder recommendation engine
+search: exclude
 description: The FACT-Finder recommendation engine analyzes product and category relationships. The results are rendered in recommendations widget, which can be displayed on product details pages, homepage or in the shopping cart.
 last_updated: Dec 25, 2019
 template: howto-guide-template

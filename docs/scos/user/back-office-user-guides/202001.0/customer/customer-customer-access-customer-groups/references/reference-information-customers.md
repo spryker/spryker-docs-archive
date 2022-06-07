@@ -1,5 +1,6 @@
 ---
 title: Reference information - Customers
+search: exclude
 description: The guide provides reference information you view when creating and updating customers in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Product Rating and Reviews feature integration
+search: exclude
 description: The guide walks you through the process of installing the Product Reviews feature in your project.
 last_updated: Apr 3, 2020
 template: feature-integration-guide-template

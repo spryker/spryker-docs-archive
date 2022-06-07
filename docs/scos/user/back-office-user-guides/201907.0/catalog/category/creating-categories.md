@@ -1,5 +1,6 @@
 ---
 title: Creating Categories
+search: exclude
 description: The guide describes procedures on how to create a category, add images and products, select a template in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

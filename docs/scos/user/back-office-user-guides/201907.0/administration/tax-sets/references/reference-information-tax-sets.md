@@ -1,5 +1,6 @@
 ---
 title: Reference information - Tax Sets
+search: exclude
 description: The guide provides additional information on the values you use when managing tax sets in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

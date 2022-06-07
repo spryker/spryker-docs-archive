@@ -1,5 +1,6 @@
 ---
 title: Resolving search engine friendly URLs
+search: exclude
 description: Learn how to resolve search engine friendly URLs via Glue API.
 last_updated: Feb 18, 2021
 template: glue-api-storefront-guide-template

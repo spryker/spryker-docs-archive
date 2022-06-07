@@ -1,5 +1,6 @@
 ---
 title: Order Cancellation Overview
+search: exclude
 description: Allow your customer to cancel orders or cancel orders on their behalf.
 last_updated: Sep 14, 2020
 template: concept-topic-template

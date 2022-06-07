@@ -1,5 +1,6 @@
 ---
 title: Retrieving category trees
+search: exclude
 description: Retrieve a full navigation tree with child category nodes.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

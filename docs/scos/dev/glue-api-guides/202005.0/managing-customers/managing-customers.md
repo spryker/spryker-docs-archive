@@ -1,5 +1,6 @@
 ---
 title: Managing Customers
+search: exclude
 description: This article explains how to manage customer accounts and provides detailed information on which endpoints to use to create, anonymize, etc. a customer.
 last_updated: Apr 3, 2020
 template: glue-api-storefront-guide-template

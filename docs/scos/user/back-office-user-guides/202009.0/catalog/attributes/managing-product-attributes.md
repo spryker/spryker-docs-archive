@@ -1,5 +1,6 @@
 ---
 title: Managing product attributes
+search: exclude
 description: Use the Managing Attributes procedures to view and updated product attributes in the Back Office.
 last_updated: Apr 22, 2021
 template: back-office-user-guide-template

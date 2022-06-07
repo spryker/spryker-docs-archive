@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring Arvato
+search: exclude
 description: Provide complete and comprehensive risk management for the eCommerce/mail-order industry, contributing to a high level of modularization and automation.
 last_updated: Dec 26, 2019
 template: concept-topic-template

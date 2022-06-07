@@ -1,5 +1,6 @@
 ---
 title: Viewing Product Barcodes
+search: exclude
 description: Use this section to review in the Back Office what barcodes have been generated for concrete products.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Retrieving concrete product prices
+search: exclude
 description: Retrieve prices of concrete products.
 last_updated: Feb 2, 2021
 template: glue-api-storefront-guide-template

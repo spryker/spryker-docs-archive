@@ -1,5 +1,6 @@
 ---
 title: Shared Cart Feature Overview
+search: exclude
 last_updated: Nov 22, 2019
 template: howto-guide-template
 originalLink: https://documentation.spryker.com/v2/docs/shared-cart-feature-overview-1

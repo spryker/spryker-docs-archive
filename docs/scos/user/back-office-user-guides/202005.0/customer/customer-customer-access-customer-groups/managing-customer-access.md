@@ -1,5 +1,6 @@
 ---
 title: Managing Customer Access
+search: exclude
 description: The guide provides a procedure on how a shop owner can define restrictions for actions for non-logged in users.
 last_updated: Jun 5, 2020
 template: back-office-user-guide-template

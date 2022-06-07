@@ -1,5 +1,6 @@
 ---
 title: Searching by customers as an agent assist
+search: exclude
 description: As an agent assist, search by customers to find the customer reference you want to impersonate.
 last_updated: Mar 9, 2021
 template: glue-api-storefront-guide-template

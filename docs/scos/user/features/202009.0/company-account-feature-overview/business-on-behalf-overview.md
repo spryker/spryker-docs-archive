@@ -1,5 +1,6 @@
 ---
 title: Business on behalf overview
+search: exclude
 description: Business on behalf allows having multiple company users per customer account with a possibility to select one company user to be a default user.
 last_updated: Jun 2, 2021
 template: concept-topic-template

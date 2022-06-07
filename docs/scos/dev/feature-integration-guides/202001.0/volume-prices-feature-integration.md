@@ -1,5 +1,6 @@
 ---
 title: Volume Prices feature integration
+search: exclude
 description: The Volume Prices Feature allows setting specific prices for units based on quantities. The guide describes how to integrate the feature into your project.
 last_updated: Mar 6, 2020
 template: feature-integration-guide-template

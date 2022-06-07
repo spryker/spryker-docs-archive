@@ -1,5 +1,6 @@
 ---
 title: Taxes
+search: exclude
 description: The guide provides a quick overview of the Taxes section that enables shop owners to define tax rates for different countries in the Back Office.
 last_updated: Jun 2, 2020
 template: back-office-user-guide-template

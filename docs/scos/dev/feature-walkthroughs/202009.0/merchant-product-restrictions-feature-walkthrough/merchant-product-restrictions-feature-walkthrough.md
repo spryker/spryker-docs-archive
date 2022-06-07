@@ -1,5 +1,6 @@
 ---
 title: Merchant Product Restrictions feature walkthrough
+search: exclude
 last_updated: Aug 13, 2021
 description: The Merchant Product Restrictions feature allows merchants to define what products are available to each of their B2B customers
 template: concept-topic-template

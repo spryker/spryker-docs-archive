@@ -1,5 +1,6 @@
 ---
 title: Managing Groups
+search: exclude
 description: Use the procedures to create, edit a group and assign a role to this group in the Back Office.
 last_updated: Feb 13, 2020
 template: back-office-user-guide-template

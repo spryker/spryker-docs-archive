@@ -1,5 +1,6 @@
 ---
 title: Coremedia with Templates & Slots
+search: exclude
 last_updated: Feb 21, 2020
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v4/docs/coremedia-with-templates-slots

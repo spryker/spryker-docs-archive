@@ -1,5 +1,6 @@
 ---
 title: Reference information - Navigation
+search: exclude
 description: The guide provides the navigation node types and additional node-related information.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

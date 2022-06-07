@@ -1,5 +1,6 @@
 ---
 title: Navigation feature walkthrough
+search: exclude
 last_updated: Aug 13, 2021
 description: The Navigation feature enables product catalog managers to create intuitive navigation elements and display them on the Storefront
 template: concept-topic-template

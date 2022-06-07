@@ -1,5 +1,6 @@
 ---
 title: Users and rights overview
+search: exclude
 last_updated: Aug 20, 2021
 description: User and rights management is a general term that describes the security functionality for controlling user access to perform various roles throughout the system
 template: concept-topic-template

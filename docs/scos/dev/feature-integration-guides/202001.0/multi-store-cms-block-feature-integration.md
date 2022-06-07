@@ -1,5 +1,6 @@
 ---
 title: Multi-store CMS Block feature integration
+search: exclude
 description: This integration guide provides step-by-step instruction on integrating Multi-store CMS Block Feature into your project.
 last_updated: Mar 6, 2020
 template: feature-integration-guide-template

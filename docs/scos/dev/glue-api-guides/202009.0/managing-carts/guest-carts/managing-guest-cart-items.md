@@ -1,5 +1,6 @@
 ---
 title: Managing guest cart items
+search: exclude
 description: Retrieve details about guest cart items and learn what else you can do with the resource.
 last_updated: Mar 23, 2021
 template: glue-api-storefront-guide-template

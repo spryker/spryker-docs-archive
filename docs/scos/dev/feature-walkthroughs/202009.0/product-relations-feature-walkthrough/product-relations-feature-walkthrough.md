@@ -1,5 +1,6 @@
 ---
 title: Product Relations feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Product Relations feature enables product catalog managers to create logical relations between products based on their actual properties
 template: concept-topic-template

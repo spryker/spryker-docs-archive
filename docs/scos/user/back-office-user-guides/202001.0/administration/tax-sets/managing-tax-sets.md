@@ -1,5 +1,6 @@
 ---
 title: Managing Tax Sets
+search: exclude
 description: Use these procedures to create, update, view and/or delete tax rates and tax sets in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Gift Cards feature integration
+search: exclude
 description: The guide walks you through the process of installing the Gift Cards feature in the project.
 last_updated: Aug 12, 2020
 template: feature-integration-guide-template

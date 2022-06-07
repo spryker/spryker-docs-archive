@@ -1,5 +1,6 @@
 ---
 title: Managing Merchants
+search: exclude
 description: Use the procedures to create, update and/or delete merchants in the Back Office.
 last_updated: Sep 14, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Creating a Request for Quote
+search: exclude
 description: The guide provides the procedure to create a Request for Quote in the cart.
 last_updated: Dec 23, 2019
 template: howto-guide-template

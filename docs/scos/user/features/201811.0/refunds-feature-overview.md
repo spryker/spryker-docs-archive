@@ -1,5 +1,6 @@
 ---
 title: Refunds feature overview
+search: exclude
 description: Refunds can be handled automatically in the Admin Interface, once the order has been delivered. All refunds can be listed per order or as a full overview.
 last_updated: Nov 5, 2019
 template: concept-topic-template

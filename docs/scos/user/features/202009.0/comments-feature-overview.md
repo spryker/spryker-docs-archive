@@ -1,5 +1,6 @@
 ---
 title: Comments feature overview
+search: exclude
 description: Comments feature provides the ability for online owners to add Comments Widget that  allows the customers to leave comments or special requests.
 last_updated: Mar 14, 2021
 template: concept-topic-template

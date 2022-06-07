@@ -1,5 +1,6 @@
 ---
 title: Editing user roles
+search: exclude
 description: Learn how to edit user roles in the Back Office.
 template: back-office-user-guide-template
 ---

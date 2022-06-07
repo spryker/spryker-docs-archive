@@ -1,5 +1,6 @@
 ---
 title: Creating abstract products and product bundles
+search: exclude
 description: Learn how to create abstract products and product bundles in the Back Office.
 last_updated: May 26, 2021
 template: back-office-user-guide-template

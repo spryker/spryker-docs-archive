@@ -1,5 +1,6 @@
 ---
 title: Agent Assist feature integration
+search: exclude
 description: This guide describes how to install the Agent Assist feature in your project.
 last_updated: Nov 25, 2019
 template: feature-integration-guide-template

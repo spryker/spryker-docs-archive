@@ -1,5 +1,6 @@
 ---
 title: Maintenance
+search: exclude
 description: The section provides information in the Back Office that ensures the system works as expected.
 last_updated: Dec 21, 2019
 template: back-office-user-guide-template

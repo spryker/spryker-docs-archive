@@ -1,5 +1,6 @@
 ---
 title: Retrieving image sets of concrete products
+search: exclude
 description: Retrieve image sets of concrete products.
 last_updated: Feb 2, 2021
 template: glue-api-storefront-guide-template

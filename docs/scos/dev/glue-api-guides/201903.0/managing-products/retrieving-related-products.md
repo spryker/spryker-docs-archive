@@ -1,5 +1,6 @@
 ---
 title: Retrieving Related Products
+search: exclude
 last_updated: Jul 31, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v2/docs/retrieving-related-products-201903

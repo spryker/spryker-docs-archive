@@ -1,5 +1,6 @@
 ---
 title: Sharing Company User Carts
+search: exclude
 description: This article describes the endpoints that provide the possibility to share and unshare carts of registered users.
 last_updated: Aug 13, 2020
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring Inxmail
+search: exclude
 description: Install and configure Inxmail
 last_updated: Jun 16, 2021
 template: howto-guide-template

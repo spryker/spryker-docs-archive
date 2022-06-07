@@ -1,5 +1,6 @@
 ---
 title: Checking out purchases
+search: exclude
 description: Learn how to check out purchases via Glue API.
 last_updated: Feb 19, 2021
 template: glue-api-storefront-guide-template

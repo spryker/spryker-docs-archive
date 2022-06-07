@@ -1,5 +1,6 @@
 ---
 title: Continum
+search: exclude
 description: Integrate Continum hosting solution to host Spryker-based project.
 last_updated: Aug 27, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Product feature overview
+search: exclude
 description: Detailed overview of the Product feature.
 last_updated: Jun 2, 2021
 template: concept-topic-template

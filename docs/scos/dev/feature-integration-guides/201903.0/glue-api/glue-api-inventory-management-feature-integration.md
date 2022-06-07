@@ -1,5 +1,6 @@
 ---
 title: Glue API - Inventory Management feature integration
+search: exclude
 description: This guide will guide you through the process of installing and configuring the Inventory Management feature for your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Packaging Units feature integration
+search: exclude
 description: The Product Packaging Unit Feature allows defining packaging units per abstract product. This guide describes how to integrate the feature into your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

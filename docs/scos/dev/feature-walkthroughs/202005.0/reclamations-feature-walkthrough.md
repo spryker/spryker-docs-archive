@@ -1,5 +1,6 @@
 ---
 title: Reclamations feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Reclamations feature allows Back Office users to handle order claims issued by customers
 template: concept-topic-template

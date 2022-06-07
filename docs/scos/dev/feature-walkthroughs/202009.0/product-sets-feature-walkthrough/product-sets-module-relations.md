@@ -1,5 +1,6 @@
 ---
 title: Product Sets- module relations
+search: exclude
 description: Module relations and database schema of the Product Sets feature.
 template: feature-walkthrough-template
 ---

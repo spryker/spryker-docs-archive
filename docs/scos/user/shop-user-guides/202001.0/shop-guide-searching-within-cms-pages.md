@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Searching within CMS Pages
+search: exclude
 description: The guide provides information on how to types of sorting options applied to search results in the Storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

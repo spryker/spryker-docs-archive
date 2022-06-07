@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Comments
+search: exclude
 description: The section can be used to add comments to cart, filter by tags, or discuss order details with colleagues.
 last_updated: Nov 22, 2019
 template: howto-guide-template

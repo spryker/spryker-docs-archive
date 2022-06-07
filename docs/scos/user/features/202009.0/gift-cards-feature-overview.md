@@ -1,5 +1,6 @@
 ---
 title: Gift Cards feature overview
+search: exclude
 description: This article describes general concepts of gift cards, gift card’s purchase and redeeming process, as well as the various use case scenarios.
 last_updated: Sep 29, 2021
 template: concept-topic-template

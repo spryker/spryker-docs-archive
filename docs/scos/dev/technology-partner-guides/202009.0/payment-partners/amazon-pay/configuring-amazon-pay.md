@@ -1,5 +1,6 @@
 ---
 title: Configuring Amazon Pay
+search: exclude
 description: Configure and integrate Amazon Pay into the Spryker Commerce OS by following the instructions from this article.
 last_updated: Mar 5, 2021
 template: concept-topic-template

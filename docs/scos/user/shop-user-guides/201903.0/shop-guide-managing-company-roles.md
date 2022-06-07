@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Managing Company Roles
+search: exclude
 description: The guide provides procedures to create, edit or view company roles in the storefront.
 last_updated: Jul 31, 2020
 template: howto-guide-template

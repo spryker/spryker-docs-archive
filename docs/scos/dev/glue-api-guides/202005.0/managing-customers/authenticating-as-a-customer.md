@@ -1,5 +1,6 @@
 ---
 title: Authentication and Authorization
+search: exclude
 description: This article provides the list of private resources and describes how to install and use the means needed to work with the sensitive data.
 last_updated: Sep 15, 2020
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Glue API - Agent Assist feature integration
+search: exclude
 description: Integrate the Glue API - Agent Assist feature into your project.
 last_updated: Oct 26, 2020
 template: feature-integration-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Threshold
+search: exclude
 description: The section can be used to set up merchant relationships and global thresholds in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

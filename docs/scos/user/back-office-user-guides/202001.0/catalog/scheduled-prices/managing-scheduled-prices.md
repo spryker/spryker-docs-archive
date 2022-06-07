@@ -1,5 +1,6 @@
 ---
 title: Managing Scheduled Prices
+search: exclude
 last_updated: Jan 3, 2020
 template: back-office-user-guide-template
 originalLink: https://documentation.spryker.com/v4/docs/managing-scheduled-prices

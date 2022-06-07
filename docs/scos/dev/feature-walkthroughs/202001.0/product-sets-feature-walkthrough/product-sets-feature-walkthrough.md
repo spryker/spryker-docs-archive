@@ -1,5 +1,6 @@
 ---
 title: Product Sets feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Product Sets feature allows creating and selling collections of products
 template: concept-topic-template

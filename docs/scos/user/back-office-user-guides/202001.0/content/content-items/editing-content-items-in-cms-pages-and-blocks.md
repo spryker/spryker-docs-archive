@@ -1,5 +1,6 @@
 ---
 title: Editing Content Items in CMS Pages and Blocks
+search: exclude
 description: The guide provides instructions for shop owners on how to update content item widgets in pages and blocks from the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

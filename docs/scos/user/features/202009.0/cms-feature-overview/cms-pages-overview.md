@@ -1,5 +1,6 @@
 ---
 title: CMS pages overview
+search: exclude
 description: Summary of the CMS page functionality.
 last_updated: May 26, 2021
 template: concept-topic-template

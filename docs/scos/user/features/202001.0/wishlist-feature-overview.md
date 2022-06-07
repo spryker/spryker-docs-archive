@@ -1,5 +1,6 @@
 ---
 title: Wishlist feature overview
+search: exclude
 description: Help your customers track and save items for later purchase through multiple Wish Lists, which are connected to the users' accounts.
 last_updated: Aug 2, 2021
 template: concept-topic-template

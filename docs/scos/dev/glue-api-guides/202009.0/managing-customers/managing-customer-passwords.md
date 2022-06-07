@@ -1,5 +1,6 @@
 ---
 title: Customer password
+search: exclude
 description: Change and reset customer password via Glue API
 last_updated: Feb 11, 2021
 template: glue-api-storefront-guide-template

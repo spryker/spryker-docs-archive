@@ -1,5 +1,6 @@
 ---
 title: Retrieving Alternative Products
+search: exclude
 description: The article demonstrates how to find alternatives for discontinued products with the help of Glue API endpoints.
 last_updated: Sep 14, 2020
 template: glue-api-storefront-guide-template

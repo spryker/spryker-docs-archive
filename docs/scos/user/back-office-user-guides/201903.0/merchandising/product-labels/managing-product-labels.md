@@ -1,5 +1,6 @@
 ---
 title: Managing Product Labels
+search: exclude
 description: The Managing Product Labels section describes the procedures you can use to view, edit, activate and/or deactivate product labels in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

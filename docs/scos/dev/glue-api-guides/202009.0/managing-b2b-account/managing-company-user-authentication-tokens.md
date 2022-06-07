@@ -1,5 +1,6 @@
 ---
 title: Managing company user authentication tokens
+search: exclude
 description: Learn how to manage company user authentication tokens via Glue API.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

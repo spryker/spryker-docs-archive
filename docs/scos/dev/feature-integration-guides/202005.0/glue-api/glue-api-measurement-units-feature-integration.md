@@ -1,5 +1,6 @@
 ---
 title: Glue API - Measurement Units feature integration
+search: exclude
 description: The procedure of integrating Measurement Units Feature API into a Spryker project.
 last_updated: Sep 14, 2020
 template: feature-integration-guide-template

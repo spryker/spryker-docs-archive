@@ -1,5 +1,6 @@
 ---
 title: Retrieving Alternative Products
+search: exclude
 last_updated: Jan 24, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/retrieving-alternative-products-201903

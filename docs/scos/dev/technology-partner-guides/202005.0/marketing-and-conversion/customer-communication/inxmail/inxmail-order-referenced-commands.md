@@ -1,5 +1,6 @@
 ---
 title: Inxmail order referenced commands
+search: exclude
 description: Learn about the order referenced commands for Inxmail in Spryker.
 last_updated: Jun 16, 2021
 template: howto-guide-template

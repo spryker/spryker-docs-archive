@@ -1,5 +1,6 @@
 ---
 title: Dynamic Filters and Facets
+search: exclude
 description: Freely define facet filters for any Product Attribute. The design, placement on page, quantity of filters, content and order are completely customizable.
 last_updated: Sep 25, 2019
 template: concept-topic-template

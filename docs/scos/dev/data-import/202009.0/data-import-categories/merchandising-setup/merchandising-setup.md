@@ -1,5 +1,6 @@
 ---
 title: Merchandising Setup
+search: exclude
 last_updated: Sep 14, 2020
 template: data-import-template
 originalLink: https://documentation.spryker.com/v6/docs/merchandising-setup

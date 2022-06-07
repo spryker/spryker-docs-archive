@@ -1,5 +1,6 @@
 ---
 title: Creating Product Bundles
+search: exclude
 description: Use the guide to assign product variants to a bundle, set its price, add SEO data and images in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

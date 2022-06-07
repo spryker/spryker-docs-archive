@@ -1,5 +1,6 @@
 ---
 title: Creating Product Labels
+search: exclude
 description: Use these procedures to create and/or activate/deactivate product labels in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

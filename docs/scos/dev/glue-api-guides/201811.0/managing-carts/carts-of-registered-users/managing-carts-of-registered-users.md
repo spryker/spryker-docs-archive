@@ -1,5 +1,6 @@
 ---
 title: Managing Carts of Registered Users
+search: exclude
 last_updated: May 19, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v1/docs/managing-carts-of-registered-users

@@ -1,5 +1,6 @@
 ---
 title: File Manager feature overview
+search: exclude
 description: Reduce your bounce rate and create an enhanced shopping experience by providing impactful visuals while simultaneously maintaining fast response times.
 last_updated: Jun 1, 2021
 template: concept-topic-template

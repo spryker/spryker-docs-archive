@@ -1,5 +1,6 @@
 ---
 title: Navigation Feature Overview
+search: exclude
 description: Build and manage an intuitive navigation for your Spryker shop.
 last_updated: Sep 14, 2020
 template: concept-topic-template

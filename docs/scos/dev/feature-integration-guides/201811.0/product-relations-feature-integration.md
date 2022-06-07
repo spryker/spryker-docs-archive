@@ -1,5 +1,6 @@
 ---
 title: Product Relation Integration
+search: exclude
 description: The guide walks you through the process of installing the Product Relation feature in your project.
 last_updated: Nov 26, 2019
 template: feature-integration-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Integrating AfterPay
+search: exclude
 description: Learn how to integrate AfterPay into Spryker-based project
 last_updated: Jun 16, 2021
 template: howto-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Search types overview
+search: exclude
 redirect_from:
   - /v3/docs/full-site-search
   - /v3/docs/en/full-site-search

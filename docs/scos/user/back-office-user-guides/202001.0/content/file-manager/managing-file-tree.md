@@ -1,5 +1,6 @@
 ---
 title: Managing File Tree
+search: exclude
 description: Use the procedures to create or delete a file directory, upload media files, change the order for file directories in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

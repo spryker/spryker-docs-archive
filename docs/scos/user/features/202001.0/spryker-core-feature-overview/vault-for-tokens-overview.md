@@ -1,5 +1,6 @@
 ---
 title: Vault for Tokens overview
+search: exclude
 description: The feature contains two modules where one of them encrypts/decrypts data and the other one - stores and retrieves data from the database
 last_updated: Nov 22, 2019
 template: concept-topic-template

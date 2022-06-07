@@ -1,5 +1,6 @@
 ---
 title: Handling orders with Amazon Pay API
+search: exclude
 description: This article provides details on the API structure of the Amazon Pay module in Spryker Commerce OS.
 last_updated: Sep 19, 2019
 template: concept-topic-template

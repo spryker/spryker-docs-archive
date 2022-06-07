@@ -1,5 +1,6 @@
 ---
 title: Adding the Econda tracking code
+search: exclude
 description: Add the Econda tracking code into Spryker Commerce OS.
 last_updated: Jun 16, 2021
 template: howto-guide-template

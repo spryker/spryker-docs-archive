@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring Seven Senders
+search: exclude
 template: howto-guide-template
 ---
 

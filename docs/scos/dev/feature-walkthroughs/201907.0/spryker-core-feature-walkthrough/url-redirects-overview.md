@@ -1,5 +1,6 @@
 ---
 title: URL redirects overview
+search: exclude
 last_updated: Aug 20, 2021
 description: With URL redirects, you can create content redirects and increase your store's search engine visibility
 template: concept-topic-template

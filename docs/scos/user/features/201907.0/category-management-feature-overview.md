@@ -1,5 +1,6 @@
 ---
 title: Category Management feature overview
+search: exclude
 description: The feature allows keeping your product catalog organized and comprehensible for the customers who can easily navigate the storefront and search products quicker
 last_updated: Oct 20, 2021
 template: concept-topic-template

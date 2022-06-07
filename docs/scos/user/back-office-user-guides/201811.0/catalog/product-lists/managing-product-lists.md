@@ -1,5 +1,6 @@
 ---
 title: Managing Product Lists
+search: exclude
 description: Use these procedures to edit, export, remove a product list or remove products from the product list in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

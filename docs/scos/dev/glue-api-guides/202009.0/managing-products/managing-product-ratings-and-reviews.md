@@ -1,5 +1,6 @@
 ---
 title: Managing product ratings and reviews
+search: exclude
 description: Learn how to manage product ratings and reviews via Glue API.
 last_updated: Mar 18, 2021
 template: glue-api-storefront-guide-template

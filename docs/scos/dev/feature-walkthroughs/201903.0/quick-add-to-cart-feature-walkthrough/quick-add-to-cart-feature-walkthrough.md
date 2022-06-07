@@ -1,5 +1,6 @@
 ---
 title: Quick Add to Cart feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Quick Add to Cart feature allows adding multiple products to cart at once
 template: concept-topic-template

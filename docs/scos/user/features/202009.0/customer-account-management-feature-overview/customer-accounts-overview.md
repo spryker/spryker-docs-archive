@@ -1,5 +1,6 @@
 ---
 title: Customer Account overview
+search: exclude
 last_updated: Jun 16, 2021
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v6/docs/customer-account-overview

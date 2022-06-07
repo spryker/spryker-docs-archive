@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Managing Requests for Quotes for a Buyer
+search: exclude
 description: The guide provides procedures on how to send a request for quote, negotiate the price, update or cancel an RFQ.
 last_updated: Dec 23, 2019
 template: howto-guide-template

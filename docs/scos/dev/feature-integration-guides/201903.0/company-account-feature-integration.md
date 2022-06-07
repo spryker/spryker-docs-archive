@@ -1,5 +1,6 @@
 ---
 title: Company Account feature integration
+search: exclude
 description: This integration guide provides a set of procedures needed to be performed in order to integrate the Business on Behalf feature into your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

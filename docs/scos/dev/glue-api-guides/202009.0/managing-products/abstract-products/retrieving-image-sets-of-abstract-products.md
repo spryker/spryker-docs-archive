@@ -1,5 +1,6 @@
 ---
 title: Retrieving image sets of abstract products
+search: exclude
 description: Retrieve image sets of abstract products.
 last_updated: Feb 2, 2021
 template: glue-api-storefront-guide-template

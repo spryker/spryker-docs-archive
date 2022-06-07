@@ -1,5 +1,6 @@
 ---
 title: Reference information - Punch Out
+search: exclude
 description: The article provides information about attributes you add, view, and edit when creating and updating a connection.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

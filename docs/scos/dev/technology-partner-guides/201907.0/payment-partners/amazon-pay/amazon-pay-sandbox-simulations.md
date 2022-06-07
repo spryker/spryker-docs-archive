@@ -1,5 +1,6 @@
 ---
 title: Amazon Pay - Sandbox Simulations
+search: exclude
 description: In this article, you can get information about sandbox simulations for the Amazon Pay module in Spryker Commerce OS.
 last_updated: Jan 27, 2020
 template: concept-topic-template

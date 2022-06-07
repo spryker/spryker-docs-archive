@@ -1,5 +1,6 @@
 ---
 title: Product Lists feature integration
+search: exclude
 description: The Product Lists Feature allows defining access to particular items. The guide will walk you through the process of integrating this feature into your project.
 last_updated: Jul 29, 2020
 template: feature-integration-guide-template

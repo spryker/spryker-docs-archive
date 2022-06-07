@@ -1,5 +1,6 @@
 ---
 title: Product Attributes overview
+search: exclude
 description: Creating and managing product attributes is the first step in enriching the product data. It is a part of maintaining and improving the online shop.
 last_updated: Sep 14, 2020
 template: concept-topic-template

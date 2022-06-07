@@ -1,5 +1,6 @@
 ---
 title: Volume Prices overview
+search: exclude
 description: Volume pricing helps the merchants to gain the commitment of the customers. Providing volume discounts results in increasing the placement of large orders.
 last_updated: Nov 22, 2019
 template: concept-topic-template

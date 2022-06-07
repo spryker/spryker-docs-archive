@@ -1,5 +1,6 @@
 ---
 title: Reference information - Availability
+search: exclude
 description: The guide provides additional information you see when working with the product availability in the Back Office.
 last_updated: Oct 22, 2019
 template: back-office-user-guide-template

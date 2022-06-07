@@ -1,5 +1,6 @@
 ---
 title: Reference information - Navigation
+search: exclude
 description: Reference information for managing navigation elements in the Back Office.
 last_updated: Sep 14, 2020
 template: back-office-user-guide-template

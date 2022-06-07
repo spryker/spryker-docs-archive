@@ -1,5 +1,6 @@
 ---
 title: Heroku
+search: exclude
 template: concept-topic-template
 ---
 

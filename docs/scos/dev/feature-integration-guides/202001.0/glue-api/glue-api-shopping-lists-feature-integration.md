@@ -1,5 +1,6 @@
 ---
 title: Glue API - Shopping List feature integration
+search: exclude
 last_updated: Apr 23, 2020
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v4/docs/glue-api-shopping-list-feature-integration-ongoing

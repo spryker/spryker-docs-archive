@@ -1,5 +1,6 @@
 ---
 title: Multi-Channel
+search: exclude
 description: You can easily promote and sell your products and services across multiple channels beyond your store's website, on- and offline.
 last_updated: May 19, 2020
 template: concept-topic-template

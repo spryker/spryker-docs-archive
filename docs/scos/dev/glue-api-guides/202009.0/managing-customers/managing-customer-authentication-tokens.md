@@ -1,5 +1,6 @@
 ---
 title: Managing customer authentication tokens
+search: exclude
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v6/docs/managing-customer-authentication-tokens

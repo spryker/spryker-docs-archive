@@ -1,5 +1,6 @@
 ---
 title: Scheduled Prices feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Scheduled Prices feature enables Back Office users to schedule price changes, which are to happen in the future for multiple products simultaneously
 template: concept-topic-template

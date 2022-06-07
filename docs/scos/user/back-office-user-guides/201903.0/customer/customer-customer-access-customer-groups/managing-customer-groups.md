@@ -1,5 +1,6 @@
 ---
 title: Managing Customer Groups
+search: exclude
 description: The guide provides instructions on how to create, edit, and view customer groups in the Back Office.
 last_updated: Jan 13, 2020
 template: back-office-user-guide-template

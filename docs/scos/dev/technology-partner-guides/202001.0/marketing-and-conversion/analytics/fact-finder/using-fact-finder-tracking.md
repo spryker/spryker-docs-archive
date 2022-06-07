@@ -1,5 +1,6 @@
 ---
 title: Using FACT-Finder tracking
+search: exclude
 description: Tracking information lets the FACT-Finder Search tool automatically learn from the user behavior.
 last_updated: Mar 4, 2020
 template: howto-guide-template

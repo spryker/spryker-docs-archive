@@ -1,5 +1,6 @@
 ---
 title: OMS (Order Management System) Matrix
+search: exclude
 description: Efficiently keep track of the order processing and ensure quick fulfillment. With the Order Management, you can keep your order processing running smoothly.
 last_updated: Jul 31, 2020
 template: concept-topic-template

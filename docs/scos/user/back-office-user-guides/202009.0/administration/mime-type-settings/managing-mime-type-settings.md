@@ -1,5 +1,6 @@
 ---
 title: Managing MIME type settings
+search: exclude
 description: Use the procedures to create, edit, delete or activate a MIME type in the Back Office.
 last_updated: Feb 22, 2021
 template: back-office-user-guide-template

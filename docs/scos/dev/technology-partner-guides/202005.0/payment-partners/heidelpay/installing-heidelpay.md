@@ -1,5 +1,6 @@
 ---
 title: Installing Heidelpay
+search: exclude
 description: This article contains installation information for the Heidelpay module into the Spryker Legacy Demoshop.
 last_updated: Apr 3, 2020
 template: concept-topic-template

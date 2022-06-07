@@ -1,5 +1,6 @@
 ---
 title: Time Restricted Content Page Publishing
+search: exclude
 description: Specify exact validity dates to make CMS Pages publicly available within a defined time period.
 last_updated: Oct 25, 2019
 template: concept-topic-template

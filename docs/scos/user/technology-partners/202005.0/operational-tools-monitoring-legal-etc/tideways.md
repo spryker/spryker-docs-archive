@@ -1,5 +1,6 @@
 ---
 title: Tideways
+search: exclude
 description: Track and analyze errors and background processed by integrating Tideways intot he Spryker Commerce OS.
 last_updated: Apr 3, 2020
 template: concept-topic-template

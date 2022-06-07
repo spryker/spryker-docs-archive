@@ -1,5 +1,6 @@
 ---
 title: Cart Functionality
+search: exclude
 description: Our Cart consists of a few components in Yves and Zed. Cart operations are invoked in CartClient, which contains methods for all common operations.
 last_updated: Nov 22, 2019
 template: feature-walkthrough-template

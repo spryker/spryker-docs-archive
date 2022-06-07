@@ -1,5 +1,6 @@
 ---
 title: Creating users
+search: exclude
 description: Learn how to create users in the Back Office
 last_updated: Aug 2, 2021
 template: back-office-user-guide-template

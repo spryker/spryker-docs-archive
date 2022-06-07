@@ -1,5 +1,6 @@
 ---
 title: Adding content items to CMS pages and blocks
+search: exclude
 description: The guide provides instructions for shop owners on how to add content items to blocks and pages using content item widgets in the Back Office
 last_updated: Jun 16, 2021
 template: back-office-user-guide-template

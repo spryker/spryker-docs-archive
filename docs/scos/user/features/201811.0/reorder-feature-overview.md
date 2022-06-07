@@ -1,5 +1,6 @@
 ---
 title: Reorder feature overview
+search: exclude
 description: The Reorder feature simplifies the order placement process for your customers- it allows them to reorder their previous orders in just one click.
 last_updated: Oct 15, 2019
 template: concept-topic-template

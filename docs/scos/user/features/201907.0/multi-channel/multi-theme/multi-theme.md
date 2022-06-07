@@ -1,5 +1,6 @@
 ---
 title: Multi-Theme
+search: exclude
 description: The feature allows creating different themes for multiple stores on various occasions to attract customers' attention.
 last_updated: Nov 18, 2020
 template: concept-topic-template

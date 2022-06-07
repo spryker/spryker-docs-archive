@@ -1,5 +1,6 @@
 ---
 title: Non-splittable Products feature overview
+search: exclude
 description: The article describes the concept of product quantity restrictions-  its types and how they can be set
 last_updated: Oct 28, 2019
 template: concept-topic-template

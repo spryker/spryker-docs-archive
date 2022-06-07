@@ -1,5 +1,6 @@
 ---
 title: Managing Company Units
+search: exclude
 description: Use the procedures to create, edit, and delete company units in the Back Office after a company has been created.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

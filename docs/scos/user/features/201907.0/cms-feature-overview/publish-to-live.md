@@ -1,5 +1,6 @@
 ---
 title: Publish to Live
+search: exclude
 description: Once your CMS Page or Block content is final you can publish it to your shop website with a single click.
 last_updated: Nov 22, 2019
 template: concept-topic-template

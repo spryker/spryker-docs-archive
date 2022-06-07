@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Request for Quote- Reference Information
+search: exclude
 description: The guide provides additional information on the UI elements you see on the Quote Requests pages.
 last_updated: Nov 22, 2019
 template: howto-guide-template

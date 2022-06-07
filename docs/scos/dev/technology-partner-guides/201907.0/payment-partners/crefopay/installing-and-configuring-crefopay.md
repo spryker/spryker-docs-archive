@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring CrefoPay
+search: exclude
 description: This article provides instructions on the installation and configuration of the CrefoPay module for the Spryker Commerce OS.
 last_updated: Nov 22, 2019
 template: concept-topic-template

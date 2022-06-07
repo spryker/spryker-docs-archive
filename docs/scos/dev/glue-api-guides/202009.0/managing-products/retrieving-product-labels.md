@@ -1,5 +1,6 @@
 ---
 title: Retrieving product labels
+search: exclude
 description: Learn how to retrieve product labels via Glue API.
 last_updated: Mar 1, 2021
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Company Account feature walkthrough
+search: exclude
 last_updated: Sep 2, 2021
 description: The Company Account feature allows controlling user access to the system within an organization by configuring different permissions and roles for the company's entities (units) and users.
 template: concept-topic-template

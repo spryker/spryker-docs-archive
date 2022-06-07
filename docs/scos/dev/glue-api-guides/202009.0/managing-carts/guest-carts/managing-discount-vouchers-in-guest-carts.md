@@ -1,5 +1,6 @@
 ---
 title: Managing discount vouchers in guest carts
+search: exclude
 description: Learn how to manage discount vouchers in guest carts via Glue API.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

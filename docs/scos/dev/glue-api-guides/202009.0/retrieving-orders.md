@@ -1,5 +1,6 @@
 ---
 title: Retrieving orders
+search: exclude
 description: Retrieve all orders of a customer or a particular order via Glue API.
 last_updated: Jun 29, 2021
 template: glue-api-storefront-guide-template

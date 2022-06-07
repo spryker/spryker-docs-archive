@@ -1,5 +1,6 @@
 ---
 title: Configurable Bundle Templates
+search: exclude
 description: This guide contains details on working with the Configurable Bundle Templates in the Back Office.
 last_updated: Dec 24, 2019
 template: back-office-user-guide-template

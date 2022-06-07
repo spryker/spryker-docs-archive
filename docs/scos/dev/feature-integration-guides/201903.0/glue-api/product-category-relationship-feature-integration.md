@@ -1,5 +1,6 @@
 ---
 title: Glue API - Product Category Relationship feature integration
+search: exclude
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v2/docs/product-category-relationship-feature-integration

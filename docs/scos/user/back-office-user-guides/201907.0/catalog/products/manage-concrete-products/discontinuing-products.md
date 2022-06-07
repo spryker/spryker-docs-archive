@@ -1,5 +1,6 @@
 ---
 title: Discontinuing Products
+search: exclude
 description: Use the guide to make the product variant discontinued in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

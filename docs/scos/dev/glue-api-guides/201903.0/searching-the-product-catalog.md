@@ -1,5 +1,6 @@
 ---
 title: Searching the Product Catalog
+search: exclude
 last_updated: Jan 16, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v2/docs/catalog-search

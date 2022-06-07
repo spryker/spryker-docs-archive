@@ -1,5 +1,6 @@
 ---
 title: Managing Tax Rates
+search: exclude
 description: Use these procedures to create, update, view and/or delete tax rates in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Creating a product list
+search: exclude
 description: Use the procedure to create a product list by assigning products and selecting the category in the Back Office.
 last_updated: Mar 10, 2021
 template: back-office-user-guide-template

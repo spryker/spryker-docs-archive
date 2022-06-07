@@ -1,5 +1,6 @@
 ---
 title: Exporting product data for FACT-Finder
+search: exclude
 description: Export data to FACT-Finder CSV by applying the configuration.
 last_updated: Dec 25, 2019
 template: howto-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Product feature integration
+search: exclude
 description: The guide describes the process of installing the Product Concrete Search Widget feature in your project.
 last_updated: Dec 24, 2019
 template: feature-integration-guide-template

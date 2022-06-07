@@ -1,5 +1,6 @@
 ---
 title: Retrieving sales units
+search: exclude
 description: Retrieve sales units of concrete products.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

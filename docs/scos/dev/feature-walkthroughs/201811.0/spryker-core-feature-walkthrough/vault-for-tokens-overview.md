@@ -1,5 +1,6 @@
 ---
 title: Vault for Tokens overview
+search: exclude
 last_updated: Aug 20, 2021
 description: This articles overviews Vault for Tokens, which provides the functionality to store sensitive data
 template: concept-topic-template

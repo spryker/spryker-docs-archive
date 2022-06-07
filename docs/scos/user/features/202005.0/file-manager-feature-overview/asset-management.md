@@ -1,5 +1,6 @@
 ---
 title: Asset Management
+search: exclude
 description: Apart from images, you can also add a great variety of other assets to your shop, like presentations, pdf documents, graphics, banners and many more.
 last_updated: Sep 14, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: General Back Office Overview
+search: exclude
 description: The article provides general information about the actions you can perform in Spryker Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

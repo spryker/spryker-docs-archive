@@ -1,5 +1,6 @@
 ---
 title: Glue API - Catalog Search feature integration
+search: exclude
 description: This guide will navigate you through the process of installing and configuring the Search API feature in Spryker OS.
 last_updated: Oct 24, 2019
 template: feature-integration-guide-template

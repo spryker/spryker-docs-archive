@@ -1,5 +1,6 @@
 ---
 title: Managing Product Sets
+search: exclude
 description: Use these procedures to view, update or change the order of product sets, as well as activate/deactivate and/or delete them in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

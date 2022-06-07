@@ -1,5 +1,6 @@
 ---
 title: Administration
+search: exclude
 description: The section can be used to work with shipments, stores, and warehouses in the Back Office.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

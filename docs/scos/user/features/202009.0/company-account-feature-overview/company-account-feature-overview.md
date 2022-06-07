@@ -1,5 +1,6 @@
 ---
 title: Company Account feature overview
+search: exclude
 description: The Company Account page gives a clear overview of business’ structure, hierarchy, shipping, billing addresses, and other users in the Business Unit.
 last_updated: Jun 2, 2021
 template: concept-topic-template

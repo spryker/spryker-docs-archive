@@ -1,5 +1,6 @@
 ---
 title: Managing Users
+search: exclude
 description: The procedures help create, edit, activate/deactivate or delete Back Office users, set a language to the Back Office user account, and make a user be an agent.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

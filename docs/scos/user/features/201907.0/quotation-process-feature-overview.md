@@ -1,5 +1,6 @@
 ---
 title: Quotation Process feature overview
+search: exclude
 description: The article describes the Quotation Process feature, its statuses, and workflow (by a customer, sales representative, agent account and interaction with approval process.
 last_updated: Dec 23, 2019
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Managing Transactions Log
+search: exclude
 description: In this section, you can view data being transmitted during the cart transfer in the Punch out protocol.
 last_updated: Jun 5, 2020
 template: back-office-user-guide-template

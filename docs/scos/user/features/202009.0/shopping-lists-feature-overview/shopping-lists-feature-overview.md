@@ -1,5 +1,6 @@
 ---
 title: Shopping Lists feature overview
+search: exclude
 description: A general overview of the Multiple and shared shopping lists feature.
 last_updated: Mar 17, 2021
 template: concept-topic-template

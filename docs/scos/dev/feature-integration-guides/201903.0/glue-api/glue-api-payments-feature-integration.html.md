@@ -1,5 +1,6 @@
 ---
 title: Glue API - Payments feature integration
+search: exclude
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v2/docs/payments-api-feature-integration-201903

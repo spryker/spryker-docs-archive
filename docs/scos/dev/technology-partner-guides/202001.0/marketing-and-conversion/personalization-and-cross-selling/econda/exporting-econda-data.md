@@ -1,5 +1,6 @@
 ---
 title: Exporting Econda data
+search: exclude
 description: Export Econda data via CSVs
 last_updated: Jun 16, 2021
 template: howto-guide-template

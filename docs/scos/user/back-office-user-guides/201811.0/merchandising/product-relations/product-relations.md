@@ -1,5 +1,6 @@
 ---
 title: Product Relations
+search: exclude
 description: This section can be used to define and manage product relations, set types of relations and assign related products in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

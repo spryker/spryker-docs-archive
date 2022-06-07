@@ -1,5 +1,6 @@
 ---
 title: Product Measurement Unit feature integration
+search: exclude
 description: The Measurement Units feature allows defining specific units of measure for products. The guide describes how to integrate the feature into your project.
 last_updated: Sep 8, 2020
 template: feature-integration-guide-template

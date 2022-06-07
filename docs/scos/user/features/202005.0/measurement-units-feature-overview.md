@@ -1,5 +1,6 @@
 ---
 title: Measurement Units Feature Overview
+search: exclude
 description: The Measurement Units per Products feature allows selling products by any unit of measure defined by a shop administrator.
 last_updated: Sep 14, 2020
 template: concept-topic-template

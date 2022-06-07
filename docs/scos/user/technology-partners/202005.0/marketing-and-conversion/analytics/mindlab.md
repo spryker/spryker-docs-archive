@@ -1,5 +1,6 @@
 ---
 title: Mindlab
+search: exclude
 description: Integrate Mindlab - a leading implementation of challenging analytics projects for websites, apps and intranet systems.
 last_updated: Apr 3, 2020
 template: concept-topic-template

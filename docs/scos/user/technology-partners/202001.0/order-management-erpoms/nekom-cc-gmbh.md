@@ -1,5 +1,6 @@
 ---
 title: NEKOM CC GmbH
+search: exclude
 last_updated: Feb 11, 2020
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v4/docs/nekom

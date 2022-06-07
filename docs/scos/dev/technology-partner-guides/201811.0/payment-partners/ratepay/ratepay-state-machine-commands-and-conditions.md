@@ -1,5 +1,6 @@
 ---
 title: RatePay - State Machine Commands and Conditions
+search: exclude
 description: This article includes the state machine commands and conditions provided by Ratepay.
 last_updated: Sep 24, 2019
 template: concept-topic-template

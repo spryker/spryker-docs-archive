@@ -1,5 +1,6 @@
 ---
 title: Creating CMS Redirects
+search: exclude
 description: The guide provides instructions for shop owners on how to create CMS redirects in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

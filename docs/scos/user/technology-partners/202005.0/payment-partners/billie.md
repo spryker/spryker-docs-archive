@@ -1,5 +1,6 @@
 ---
 title: Billie
+search: exclude
 description: Provide various payment options from Billie.
 last_updated: Apr 3, 2020
 template: concept-topic-template

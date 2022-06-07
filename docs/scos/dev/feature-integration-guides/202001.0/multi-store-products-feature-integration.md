@@ -1,5 +1,6 @@
 ---
 title: Multi-Store Products feature integration
+search: exclude
 description: The guide describes the process of installing the Multi-Store Products into your project.
 last_updated: Mar 6, 2020
 template: feature-integration-guide-template

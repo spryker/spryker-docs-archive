@@ -1,5 +1,6 @@
 ---
 title: Checkout feature overview
+search: exclude
 description: The checkout workflow is a multi-step process that can be fullly customized to fit your needs.
 last_updated: May 19, 2020
 template: concept-topic-template

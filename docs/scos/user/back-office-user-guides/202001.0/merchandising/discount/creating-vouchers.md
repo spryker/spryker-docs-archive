@@ -1,5 +1,6 @@
 ---
 title: Creating Vouchers
+search: exclude
 description: Use the procedure to create discount vouchers your customer can redeem during checkout.
 last_updated: Feb 3, 2020
 template: back-office-user-guide-template

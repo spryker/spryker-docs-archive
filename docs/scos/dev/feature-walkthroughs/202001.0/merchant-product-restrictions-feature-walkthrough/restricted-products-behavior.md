@@ -1,5 +1,6 @@
 ---
 title: Restricted Products Behavior
+search: exclude
 description: In this article, you can find commonly encountered cases of product restrictions behavior.
 last_updated: Dec 21, 2019
 template: feature-walkthrough-template

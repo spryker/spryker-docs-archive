@@ -1,5 +1,6 @@
 ---
 title: CMS feature integration
+search: exclude
 description: Multi-store CMS Pages feature allows making CMS pages visible or hidden on the store website. The guide describes how to integrate the feature into your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

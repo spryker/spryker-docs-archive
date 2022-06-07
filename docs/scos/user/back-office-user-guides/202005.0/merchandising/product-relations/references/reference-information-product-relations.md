@@ -1,5 +1,6 @@
 ---
 title: Reference information - product relations
+search: exclude
 description: This section provides reference information for the values you enter when creating, updating, or viewing product relations in the Back Office.
 last_updated: Jul 7, 2020
 template: back-office-user-guide-template

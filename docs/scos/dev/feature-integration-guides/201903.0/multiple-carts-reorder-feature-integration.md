@@ -1,5 +1,6 @@
 ---
 title: Multiple Carts- Reorder feature integration
+search: exclude
 description: The Reorder Feature allows reordering previous orders. This guide will walk you through the process of integrating the feature into your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

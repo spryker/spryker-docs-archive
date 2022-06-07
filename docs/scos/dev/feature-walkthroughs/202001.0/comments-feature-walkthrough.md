@@ -1,5 +1,6 @@
 ---
 title: Comments feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Comments feature allows adding multiple comments to any entity
 template: concept-topic-template

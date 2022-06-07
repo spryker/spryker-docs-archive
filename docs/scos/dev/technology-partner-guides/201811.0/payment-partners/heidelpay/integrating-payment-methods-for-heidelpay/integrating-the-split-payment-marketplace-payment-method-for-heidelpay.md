@@ -1,5 +1,6 @@
 ---
 title: Integrating the Split-payment Marketplace payment method for Heidelpay
+search: exclude
 description: Integrate Split payment Marketplace through Heidelpay into the Spryker-based shop.
 last_updated: May 19, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Computop - OMS plugins
+search: exclude
 description: This article contains information on the state machine commands and conditions for the Computop module in the Spryker Commerce OS.
 last_updated: Oct 23, 2019
 template: concept-topic-template

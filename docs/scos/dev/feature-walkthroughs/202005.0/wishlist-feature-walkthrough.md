@@ -1,5 +1,6 @@
 ---
 title: Wishlist feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Wishlist feature allows customers to track and save the products they wish to purchase through the wish list
 template: concept-topic-template

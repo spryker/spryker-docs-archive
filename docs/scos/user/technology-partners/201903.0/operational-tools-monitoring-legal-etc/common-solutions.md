@@ -1,5 +1,6 @@
 ---
 title: common solutions
+search: exclude
 last_updated: Nov 22, 2019
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v2/docs/common-solutions

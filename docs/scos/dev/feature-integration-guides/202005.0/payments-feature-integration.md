@@ -1,5 +1,6 @@
 ---
 title: Payments feature integration
+search: exclude
 description: Use the guide to install the Payment per store feature in your project.
 last_updated: May 12, 2020
 template: feature-integration-guide-template

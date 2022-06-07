@@ -1,5 +1,6 @@
 ---
 title: Integrating Seven Senders
+search: exclude
 template: howto-guide-template
 ---
 

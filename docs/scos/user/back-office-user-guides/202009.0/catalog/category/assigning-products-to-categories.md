@@ -1,5 +1,6 @@
 ---
 title: Assigning products to categories
+search: exclude
 description: The guide provides instructions on how to assign products to the category in the Back Office.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

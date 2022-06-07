@@ -1,5 +1,6 @@
 ---
 title: Managing Guest Carts
+search: exclude
 description: This article describes the endpoints that provide access to shopping carts management functionality for the guest carts.
 last_updated: Aug 13, 2020
 template: glue-api-storefront-guide-template

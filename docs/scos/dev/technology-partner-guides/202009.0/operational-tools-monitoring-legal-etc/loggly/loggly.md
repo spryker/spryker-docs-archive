@@ -1,5 +1,6 @@
 ---
 title: Loggly
+search: exclude
 description: Overview of the Loggly integration.
 template: concept-topic-template
 ---

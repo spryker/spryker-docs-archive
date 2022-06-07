@@ -1,5 +1,6 @@
 ---
 title: Glue Infrastructure
+search: exclude
 description: The guide will walk you through the process of handling API requests at the Glue layer, including GlueApplication, Resource, and Relationship Modules.
 last_updated: Apr 14, 2020
 template: glue-api-storefront-guide-template

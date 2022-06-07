@@ -1,5 +1,6 @@
 ---
 title: Managing Returns
+search: exclude
 description: In this article, you will know how to manage returns in the Back Office.
 last_updated: Sep 14, 2020
 template: back-office-user-guide-template

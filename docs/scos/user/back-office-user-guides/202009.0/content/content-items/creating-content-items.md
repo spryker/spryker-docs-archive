@@ -1,5 +1,6 @@
 ---
 title: Creating content items
+search: exclude
 description: The guide provides a procedure on how to create a content item such as banner, abstract product list, product set, and file list in the Back Office.
 last_updated: Jun 16, 2021
 template: back-office-user-guide-template

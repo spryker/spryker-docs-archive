@@ -1,5 +1,6 @@
 ---
 title: Assigning Blocks to Category and Product Pages
+search: exclude
 description: The guide provides instructions on how to assign blocks to category and product detail pages, and add CMS blocks to a CMS page in the Back Office.
 last_updated: Feb 11, 2020
 template: back-office-user-guide-template

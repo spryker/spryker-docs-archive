@@ -1,5 +1,6 @@
 ---
 title: Alternative Products Feature Overview
+search: exclude
 description: Product alternatives is a great way to ease the user’s product finding process. It lets the user jump over product pages until they find a relevant item.
 last_updated: Jul 31, 2020
 template: concept-topic-template

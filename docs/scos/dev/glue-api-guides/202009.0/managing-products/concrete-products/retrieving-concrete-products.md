@@ -1,5 +1,6 @@
 ---
 title: Retrieving concrete products
+search: exclude
 description: Retrieve general information about concrete products.
 last_updated: Mar 1, 2021
 template: glue-api-storefront-guide-template

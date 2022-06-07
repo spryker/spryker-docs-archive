@@ -1,5 +1,6 @@
 ---
 title: Products
+search: exclude
 description: This section is designed to manage products from product creation to stock and product reviews, options, labels, relations, lists, etc in the Back Office.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

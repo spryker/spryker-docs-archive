@@ -1,5 +1,6 @@
 ---
 title: Search types overview
+search: exclude
 redirect_from:
   - /2021080/docs/search-types-overview
   - /2021080/docs/en/search-types-overview

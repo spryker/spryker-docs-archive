@@ -1,5 +1,6 @@
 ---
 title: Punch Out Feature Overview
+search: exclude
 description: The Punch Out feature allows connecting a buyer's procurement software with a seller's e-commerce shop, Spryker Commerce OS.
 last_updated: Nov 22, 2019
 template: concept-topic-template

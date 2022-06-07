@@ -1,5 +1,6 @@
 ---
 title: Quick Add to Cart feature overview
+search: exclude
 description: On the Quick Add to Cart form in the web-shop, a customer can enter product SKU and Quantity and proceed by adding it to cart or by creating an order right away.
 last_updated: Nov 20, 2020
 template: concept-topic-template

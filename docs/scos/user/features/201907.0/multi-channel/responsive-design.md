@@ -1,5 +1,6 @@
 ---
 title: Responsive Design
+search: exclude
 description: Customers visiting your store from a mobile device will be able to smoothly navigate and experience a seamless shopping journey.
 last_updated: Nov 22, 2019
 template: concept-topic-template

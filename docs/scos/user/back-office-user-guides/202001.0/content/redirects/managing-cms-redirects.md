@@ -1,5 +1,6 @@
 ---
 title: Managing CMS Redirects
+search: exclude
 description: The guide provides procedures on how to update or delete URL redirects in the Back Office.
 last_updated: Dec 23, 2019
 template: back-office-user-guide-template

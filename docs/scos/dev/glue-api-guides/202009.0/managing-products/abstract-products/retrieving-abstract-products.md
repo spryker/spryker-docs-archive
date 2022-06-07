@@ -1,5 +1,6 @@
 ---
 title: Retrieving abstract products
+search: exclude
 description: Retrieve general information about abstract products and related resources.
 last_updated: Jun 16, 2021
 template: glue-api-storefront-guide-template

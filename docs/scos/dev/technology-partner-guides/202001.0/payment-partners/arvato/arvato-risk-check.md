@@ -1,5 +1,6 @@
 ---
 title: Arvato - Risk Check
+search: exclude
 description: Arvato Risk Check evaluates the probability of payment default for the customer orders.
 last_updated: Nov 22, 2019
 template: concept-topic-template

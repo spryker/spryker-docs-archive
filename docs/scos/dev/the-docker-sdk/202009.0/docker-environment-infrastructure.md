@@ -1,5 +1,6 @@
 ---
 title: Docker environment infrastructure
+search: exclude
 last_updated: Jan 4, 2021
 template: howto-guide-template
 originalLink: https://documentation.spryker.com/v6/docs/docker-environment-infrastructure
