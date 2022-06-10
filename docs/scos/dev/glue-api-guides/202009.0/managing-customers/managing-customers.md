@@ -334,7 +334,7 @@ If the customer is anonymized successfully, the endpoint returns the `204 No Con
 | 405 | Customer reference is missing. |
 | 410 | Failed to save changes. |
 | 414 | Provided gender is invalid. |
-| 422 | Terms of service were not accepted. Note that if you have the [REST Request Format](/docs/scos/dev/tutorials-and-howtos/introduction-tutorials/glue-api/validating-rest-request-format.html) validation enabled, then you will receive 901 instead of 422. |
+| 422 | Terms of service were not accepted. Note that if you have the [REST Request Format](https://docs.spryker.com/docs/scos/dev/tutorials-and-howtos/introduction-tutorials/glue-api/validating-rest-request-format.html) validation enabled, then you will receive 901 instead of 422. |
 
 To view generic errors that originate from the Glue Application, see [Reference information: GlueApplication errors](/docs/scos/dev/glue-api-guides/{{page.version}}/reference-information-glueapplication-errors.html).
 

@@ -67,7 +67,7 @@ A content manager can [manage templates with slots](/docs/scos/user/back-office-
 
 </details>
 
-See [HowTo - Create CMS Templates](/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/cms/howto-create-cms-templates.html) to learn about creation of CMS templates.
+See [HowTo - Create CMS Templates](https://docs.spryker.com/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/cms/howto-create-cms-templates.html) to learn about creation of CMS templates.
 
 
 

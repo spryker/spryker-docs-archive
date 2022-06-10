@@ -32,8 +32,8 @@ The following schema illustrates relations  in the Quick Order feature:
 
 | INTEGRATION GUIDES  | MIGRATION GUIDES |
 |---|---|
-| [Quick Add to Cart feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-feature-integration.html) | [ProductPackagingUnitStorage migration guide](/docs/scos/dev/module-migration-guides/migration-guide-productpackagingunitstorage.html) |
-| [Quick Add to Cart + Shopping Lists feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-shopping-lists-feature-integration.html) | [ProductPageSearch migration guide](/docs/scos/dev/module-migration-guides/migration-guide-productpagesearch.html) |
+| [Quick Add to Cart feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-feature-integration.html) | [ProductPackagingUnitStorage migration guide](https://docs.spryker.com/docs/scos/dev/module-migration-guides/migration-guide-productpackagingunitstorage.html) |
+| [Quick Add to Cart + Shopping Lists feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-shopping-lists-feature-integration.html) | [ProductPageSearch migration guide](https://docs.spryker.com/docs/scos/dev/module-migration-guides/migration-guide-productpagesearch.html) |
 | [Quick Add to Cart + Discontinued Products feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-discontinued-products-feature-integration.html) | [QuickOrderPage migration guide](/docs/scos/dev/module-migration-guides/migration-guide-quickorderpage.html |
 | [Quick Add to Cart + Measurement Units feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-measurement-units-feature-integration.html) |  |
 | [Quick Add to Cart + Non-splittable Products feature integration](/docs/scos/dev/feature-integration-guides/{{page.version}}/quick-add-to-cart-non-splittable-products-feature-integration.html) |  |

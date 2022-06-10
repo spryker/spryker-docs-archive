@@ -16,4 +16,4 @@ To learn more about the feature and to find out how end users use it, see [Refun
 
 | MIGRATION GUIDES | TUTORIALS AND HOWTOS |
 |---------|---------|
-| Refund migration guide | [Refund process management](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/refund-process-management.html) |
+| Refund migration guide | [Refund process management](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/refund-process-management.html) |

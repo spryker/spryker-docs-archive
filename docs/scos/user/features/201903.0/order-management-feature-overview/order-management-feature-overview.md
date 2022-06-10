@@ -27,7 +27,7 @@ Efficiently keep track of your order processing and ensure quick fulfillment. Ma
 
 **Features:**
 <div>
-<a class="feature-link" href="/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/state-machine/order-process-modelling-via-state-machines.html">Order Process Modelling via State Machines</a>
+<a class="feature-link" href="https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/state-machine/order-process-modelling-via-state-machines.html">Order Process Modelling via State Machines</a>
 <a class="feature-link" href="/docs/scos/user/features/{{page.version}}/order-management-feature-overview/oms-order-management-system-matrix.html">OMS \(Order Management System\) Matrix</a>
 <a class="feature-link" href="/docs/scos/user/features/{{page.version}}/reorder-feature-overview.html">Reorder</a>
 <a class="feature-link" href="/docs/scos/user/features/{{page.version}}/order-management-feature-overview/order-management-feature-overview.html">Order Processing</a>

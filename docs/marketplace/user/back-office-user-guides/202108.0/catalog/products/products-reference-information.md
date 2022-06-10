@@ -23,7 +23,7 @@ On the **Products** page, you see the following:
 
 {% info_block infoBox "Info" %}
 
-For the [Marketplace](/docs/marketplace/user/intro-to-spryker-marketplace/marketplace-concept.html) project, you can also filter the products belonging to a certain Merchant:
+For the [Marketplace](https://docs.spryker.com/docs/marketplace/user/intro-to-spryker-marketplace/marketplace-concept.html) project, you can also filter the products belonging to a certain Merchant:
 
 {% endinfo_block %}
 

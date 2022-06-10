@@ -157,7 +157,7 @@ docker/sdk up --build --data
 
 See:
 
-* [Configuring Elasticsearch](/docs/scos/dev/back-end-development/data-manipulation/data-interaction/search/configuring-elasticsearch.html) to learn more about ElastciSearch configuration in Spryker.
+* [Configuring Elasticsearch](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/data-interaction/search/configuring-elasticsearch.html) to learn more about ElastciSearch configuration in Spryker.
 * [Elasticsearch documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) for more information on ElasticSearch.
 
 ### Configuring ElasticSearch

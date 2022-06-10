@@ -22,7 +22,7 @@ Every e-commerce shop reaches that moment when they need to stand out among comp
             <ul class="mr-list mr-list-green">
                 <li class="mr-title">Developer</li>
                 <li><a href="/docs/scos/user/features/{{page.version}}/multi-channel/multi-theme/multi-theme-feature-overview.html" class="mr-link">Familiarize yourself with the Multi-Theme feature</a></li>
-                <li><a href="/docs/scos/dev/front-end-development/yves/front-end-builder-for-yves.html" class="mr-link">Build frontend with multiple themes per store</a></l
+                <li><a href="https://docs.spryker.com/docs/scos/dev/front-end-development/yves/front-end-builder-for-yves.html" class="mr-link">Build frontend with multiple themes per store</a></l
             </ul>
         </div>
         </div>

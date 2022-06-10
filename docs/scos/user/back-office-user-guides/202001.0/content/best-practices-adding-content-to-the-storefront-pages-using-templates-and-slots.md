@@ -30,7 +30,7 @@ To do that, you need to create content items, insert them into CMS blocks, assig
 
 {% info_block infoBox "Examplary content" %}
 
-All the content used in this guide is shipped by default in our [Demo Shops](/docs/scos/user/intro-to-spryker/b2b-suite.html).
+All the content used in this guide is shipped by default in our [Demo Shops](https://docs.spryker.com/docs/scos/user/intro-to-spryker/b2b-suite.html).
 
 {% endinfo_block %}
 
@@ -47,7 +47,7 @@ Create the following content items:
 
 See [Creating Content Items](/docs/scos/user/back-office-user-guides/{{page.version}}/content/content-items/creating-content-items.html) for more details.
 
-If the content item types shipped by default are not sufficient for your project needs, new ones can be created by a developer. See [HowTo - Create a Content Item](/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/cms/howto-create-a-custom-content-item.html) for more details.
+If the content item types shipped by default are not sufficient for your project needs, new ones can be created by a developer. See [HowTo - Create a Content Item](https://docs.spryker.com/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/cms/howto-create-a-custom-content-item.html) for more details.
 
 ## Create CMS Blocks
 

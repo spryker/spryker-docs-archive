@@ -28,8 +28,8 @@ Spryker Docker SDK is used for the following purposes:
 
 **What's next?**
 Before you start installing your Spryker in Docker, follow the installation prerequisites for your operating system:
-* [Linux](/docs/scos/dev/installation/spryker-in-docker/docker-installation-prerequisites/docker-installation-prerequisites-linux.html)
-* [MacOS](/docs/scos/dev/installation/spryker-in-docker/docker-installation-prerequisites/docker-installation-prerequisites-macos.html)
-* [Windows](/docs/scos/dev/installation/spryker-in-docker/docker-installation-prerequisites/docker-installation-prerequisites-windows.html)
+* [Linux](https://docs.spryker.com/docs/scos/dev/installation/spryker-in-docker/docker-installation-prerequisites/docker-installation-prerequisites-linux.html)
+* [MacOS](https://docs.spryker.com/docs/scos/dev/installation/spryker-in-docker/docker-installation-prerequisites/docker-installation-prerequisites-macos.html)
+* [Windows](https://docs.spryker.com/docs/scos/dev/installation/spryker-in-docker/docker-installation-prerequisites/docker-installation-prerequisites-windows.html)
 
 <!-- Last review date: Aug 06, 2019by Mike Kalinin, Andrii Tserkovnyi -->

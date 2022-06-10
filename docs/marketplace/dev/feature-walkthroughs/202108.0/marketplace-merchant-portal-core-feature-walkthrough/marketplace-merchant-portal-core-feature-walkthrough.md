@@ -8,7 +8,7 @@ The Marketplace Merchant Portal Core enables server configuration and basic func
 
 {% info_block warningBox "Note" %}
 
-To learn more about the Marketplace Application, see [Marketplace Application Composition](/docs/marketplace/dev/architecture-overview/marketplace-application-composition.html).
+To learn more about the Marketplace Application, see [Marketplace Application Composition](https://docs.spryker.com/docs/marketplace/dev/architecture-overview/marketplace-application-composition.html).
 
 {% endinfo_block %}
 
@@ -73,8 +73,8 @@ To learn more about Table design, see [Table design](/docs/marketplace/dev/front
 |INTEGRATION GUIDES  |GLUE API GUIDES  |DATA IMPORT  | REFERENCES  |
 |---------|---------|---------|--------|
 | [Marketplace Merchant Portal Core feature integration](/docs/marketplace/dev/feature-integration-guides/{{page.version}}/marketplace-merchant-portal-core-feature-integration.html)          |          | [File details: merchant_user.csv](/docs/marketplace/dev/data-import/{{page.version}}/file-details-merchant-user.csv.html)           | [GUI modules concept](/docs/marketplace/dev/feature-walkthroughs/{{page.version}}/marketplace-merchant-portal-core-feature-walkthrough/gui-modules-concept.html) |
-|        |          |          | [How to create a new GUI module](/docs/marketplace/dev/howtos/how-to-create-gui-module.html)  |
-|        |          |          | [How to create a new Gui table](/docs/marketplace/dev/howtos/how-to-create-gui-table.html)  |
-|        |          |          | [How to extend an existing Gui table](/docs/marketplace/dev/howtos/how-to-extend-gui-table.html)  |
-|        |          |          | [How to create a new Gui table filter type](/docs/marketplace/dev/howtos/how-to-add-new-guitable-filter-type.html)  |
-|        |          |          | [How to extend Merchant portal dashboard](/docs/marketplace/dev/howtos/how-to-extend-merchant-portal-dashboard.html)  |
+|        |          |          | [How to create a new GUI module](https://docs.spryker.com/docs/marketplace/dev/howtos/how-to-create-gui-module.html)  |
+|        |          |          | [How to create a new Gui table](https://docs.spryker.com/docs/marketplace/dev/howtos/how-to-create-gui-table.html)  |
+|        |          |          | [How to extend an existing Gui table](https://docs.spryker.com/docs/marketplace/dev/howtos/how-to-extend-gui-table.html)  |
+|        |          |          | [How to create a new Gui table filter type](https://docs.spryker.com/docs/marketplace/dev/howtos/how-to-add-new-guitable-filter-type.html)  |
+|        |          |          | [How to extend Merchant portal dashboard](https://docs.spryker.com/docs/marketplace/dev/howtos/how-to-extend-merchant-portal-dashboard.html)  |

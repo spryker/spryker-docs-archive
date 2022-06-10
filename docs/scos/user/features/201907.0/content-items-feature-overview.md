@@ -50,7 +50,7 @@ Spryker provides several basic types of templates for content items. However, de
 
 {% endinfo_block %}
 
-In addition to creating and managing content items in the Back Office, developers can create or edit content items by [importing their data using a CSV file](/docs/scos/dev/back-end-development/data-manipulation/data-ingestion/data-importers/data-importers-overview-and-implementation.html), as well as [get content items data via API](/docs/scos/dev/glue-api/201907.0/retrieving-content-item-data/retrieving-content-item-data.html) by sending a GET request to the content item related endpoint.
+In addition to creating and managing content items in the Back Office, developers can create or edit content items by [importing their data using a CSV file](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/data-ingestion/data-importers/data-importers-overview-and-implementation.html), as well as [get content items data via API](/docs/scos/dev/glue-api/201907.0/retrieving-content-item-data/retrieving-content-item-data.html) by sending a GET request to the content item related endpoint.
 
 ## Content Item widgets
 

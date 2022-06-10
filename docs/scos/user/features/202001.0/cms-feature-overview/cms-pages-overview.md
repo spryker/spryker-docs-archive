@@ -50,9 +50,9 @@ This CMS Pages feature is ideal for specific landing pages with dedicated URLs t
 
   - [Create a template for a CMS page](/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/cms/howto-create-cms-templates.html#cms-page-template)
   - [Migrate the CMS module from version 6.* to version 7.*](/docs/scos/dev/module-migration-guides/migration-guide-cms.html#upgrading-from-version-6-to-version-7)
-  - [Migrate the CmsStorage module from version 1.* to version 2.*](/docs/scos/dev/module-migration-guides/migration-guide-cmsstorage.html)
-  - [Migrate the CmsGui module from version 4.* to version 5.*](/docs/scos/dev/module-migration-guides/migration-guide-cmsgui.html)
-  - [Migrate the CmsPageSearch module from version 1.* to version 2.*](/docs/scos/dev/module-migration-guides/migration-guide-cmspagesearch.html)
+  - [Migrate the CmsStorage module from version 1.* to version 2.*](https://docs.spryker.com/docs/scos/dev/module-migration-guides/migration-guide-cmsstorage.html)
+  - [Migrate the CmsGui module from version 4.* to version 5.*](https://docs.spryker.com/docs/scos/dev/module-migration-guides/migration-guide-cmsgui.html)
+  - [Migrate the CmsPageSearch module from version 1.* to version 2.*](https://docs.spryker.com/docs/scos/dev/module-migration-guides/migration-guide-cmspagesearch.html)
   - [Integrate the CMS feature into your project](/docs/scos/dev/feature-integration-guides/{{page.version}}/cms-feature-integration.html)
   - [Integrate the CMS Page Search + Product Lists + Catalog Feature v. into your project](/docs/scos/dev/feature-integration-guides/{{page.version}}/cms-product-lists-catalog-feature-integration.html)
   - [Integrate the CMS Page Search + Catalog Feature into your project](/docs/scos/dev/feature-integration-guides/{{page.version}}/cms-catalog-feature-integration.html)
