@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring Payolution
+search: exclude
 description: This article contains information on configuring the Payolution module for the Spryker Commerce OS.
 last_updated: Oct 23, 2019
 template: concept-topic-template

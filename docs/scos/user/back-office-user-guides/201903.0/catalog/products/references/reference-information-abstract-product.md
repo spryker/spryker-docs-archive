@@ -1,5 +1,6 @@
 ---
 title: Reference information - Abstract Product
+search: exclude
 description: Use this section to learn more about the attributes you use when creating or updating abstract products in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: PayOne - Risk Check and Address Check
+search: exclude
 description: In this article, you will get information on the Payone risk check and address check services.
 last_updated: Jan 27, 2020
 template: concept-topic-template

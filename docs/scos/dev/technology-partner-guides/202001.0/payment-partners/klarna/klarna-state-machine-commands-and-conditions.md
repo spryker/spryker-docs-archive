@@ -1,5 +1,6 @@
 ---
 title: Klarna state machine commands and conditions
+search: exclude
 description: This article includes the state machine commands and conditions provided by Klarna.
 last_updated: Dec 26, 2019
 template: concept-topic-template

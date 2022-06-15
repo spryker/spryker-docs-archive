@@ -1,5 +1,6 @@
 ---
 title: Managing Global Threshold
+search: exclude
 description: Use the procedures to set up hard and soft thresholds when working with global thresholds in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

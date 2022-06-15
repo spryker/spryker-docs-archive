@@ -1,5 +1,6 @@
 ---
 title: Minubo
+search: exclude
 description: Integrate Minubo -  infrastructure and processes provider for a fast-growing omnichannel business.
 last_updated: Oct 23, 2019
 template: concept-topic-template

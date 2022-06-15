@@ -1,5 +1,6 @@
 ---
 title: Managing wishlists
+search: exclude
 description: Create, update and delete wishlists via Glue API.
 last_updated: Feb 24, 2021
 template: glue-api-storefront-guide-template

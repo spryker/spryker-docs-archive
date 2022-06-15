@@ -1,5 +1,6 @@
 ---
 title: Managing Merchant Relations
+search: exclude
 description: Use the procedures to create, edit, and delete merchant relations, or sort them by the company for which the merchant relation has been created.
 last_updated: Sep 14, 2020
 template: back-office-user-guide-template

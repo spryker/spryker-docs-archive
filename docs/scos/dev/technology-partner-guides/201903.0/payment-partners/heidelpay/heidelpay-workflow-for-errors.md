@@ -1,5 +1,6 @@
 ---
 title: Heidelpay workflow for errors
+search: exclude
 description: This article describes the procedure for handling errors in Heidelpay.
 last_updated: Nov 22, 2019
 template: concept-topic-template

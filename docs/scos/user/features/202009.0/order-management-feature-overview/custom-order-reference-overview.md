@@ -1,5 +1,6 @@
 ---
 title: Custom Order Reference overview
+search: exclude
 last_updated: Jun 13, 2021
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v6/docs/custom-order-reference-overview

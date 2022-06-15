@@ -1,5 +1,6 @@
 ---
 title: Product is Available Again feature integration
+search: exclude
 description: The guide walks you through the process of installing the Product is Available Again feature into the project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

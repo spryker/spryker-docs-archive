@@ -1,5 +1,6 @@
 ---
 title: Retrieving company users
+search: exclude
 description: Learn how to retrieve company users via Glue API.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

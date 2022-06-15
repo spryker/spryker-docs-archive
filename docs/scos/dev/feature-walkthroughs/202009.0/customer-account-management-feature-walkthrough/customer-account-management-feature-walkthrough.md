@@ -1,5 +1,6 @@
 ---
 title: Customer Account Management feature walkthrough
+search: exclude
 last_updated: Aug 13, 2021
 description: The Customer Account Management feature enables a wide range of management options for customer accounts and additional functionalities
 template: concept-topic-template

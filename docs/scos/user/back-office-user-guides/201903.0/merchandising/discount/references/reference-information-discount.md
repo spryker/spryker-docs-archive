@@ -1,5 +1,6 @@
 ---
 title: Reference information - Discount
+search: exclude
 description: This guide provides additional information on the values you use when working with discounts in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

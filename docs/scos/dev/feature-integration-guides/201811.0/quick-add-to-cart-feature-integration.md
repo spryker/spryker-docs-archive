@@ -1,5 +1,6 @@
 ---
 title: Quick Add to Cart feature integration
+search: exclude
 description: Quick Add to Cart allows customers to buy products in a few clicks. This guide will walk you through the process of integrating this feature into your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

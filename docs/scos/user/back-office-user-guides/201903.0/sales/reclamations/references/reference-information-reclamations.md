@@ -1,5 +1,6 @@
 ---
 title: Reference information - Reclamations
+search: exclude
 description: The article provides additional reference information you see when managing Reclamations in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Catalog feature overview
+search: exclude
 description: Catalogs are used to clearly build and organize your products to meet you and your customer's demands.
 last_updated: Nov 18, 2020
 template: concept-topic-template

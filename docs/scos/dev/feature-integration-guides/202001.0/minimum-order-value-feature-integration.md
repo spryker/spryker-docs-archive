@@ -1,5 +1,6 @@
 ---
 title: Minimum Order Value feature integration
+search: exclude
 description: This guide provides a set of procedure needed to be performed in order to integrate the latest version of Minimum Order Value feature to your project.
 last_updated: Mar 6, 2020
 template: feature-integration-guide-template

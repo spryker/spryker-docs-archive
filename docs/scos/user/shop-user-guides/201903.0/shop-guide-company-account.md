@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Company Account
+search: exclude
 description: Use the procedures to create and manage a company from the company account in the storefront.
 last_updated: Jul 31, 2020
 template: howto-guide-template

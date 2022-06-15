@@ -1,5 +1,6 @@
 ---
 title: Managing Payment Methods
+search: exclude
 description: Use the guide to view, update, activate, and assign to stores payment methods in the Back Office.
 last_updated: Dec 10, 2019
 template: back-office-user-guide-template

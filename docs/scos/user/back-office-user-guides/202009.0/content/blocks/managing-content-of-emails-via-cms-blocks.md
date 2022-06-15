@@ -1,5 +1,6 @@
 ---
 title: Managing content of emails via CMS blocks
+search: exclude
 description: You can manage the content of emails you send to customers by editing email templates via CMS Blocks.
 last_updated: Sep 11, 2020
 template: back-office-user-guide-template

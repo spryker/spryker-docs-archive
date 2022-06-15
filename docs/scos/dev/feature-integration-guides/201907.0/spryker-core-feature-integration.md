@@ -1,5 +1,6 @@
 ---
 title: Spryker Core feature integration
+search: exclude
 description: The guide walks you through the process of installing the Vault and Redis functionalities in your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

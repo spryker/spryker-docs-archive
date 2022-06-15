@@ -1,5 +1,6 @@
 ---
 title: Reference information - Search Preferences Types
+search: exclude
 description: This guide provides additional information about search preferences types- full text, full text boosted, suggestion, and completion terms.
 last_updated: Oct 23, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Creating CMS pages
+search: exclude
 description: The guide provides a procedure to create a CMS page, make it searchable per store in the Back Office.
 last_updated: Jun 15, 2021
 template: back-office-user-guide-template

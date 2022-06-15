@@ -1,5 +1,6 @@
 ---
 title: Data Virtuality
+search: exclude
 description: Benefit from reducing data integration effort by 80% and gaining faster business insights by integrating Data Virtuality into the Spryker Commerce OS.
 last_updated: Apr 3, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: CMS Pages
+search: exclude
 description: The CMS Pages section is designed to create, view, update, publish CMS pages, compare its versions, and activate/deactivate in the Back Office.
 last_updated: Jan 13, 2020
 template: back-office-user-guide-template

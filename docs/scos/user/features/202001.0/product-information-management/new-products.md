@@ -1,5 +1,6 @@
 ---
 title: New Products
+search: exclude
 description: New products feature extends product module by two date attributes - *new from* and *new to* dates.
 last_updated: Nov 22, 2019
 template: concept-topic-template

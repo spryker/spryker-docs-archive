@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Agent Account
+search: exclude
 description: The guide provides information you need to work in the Agent account.
 last_updated: Nov 22, 2019
 template: howto-guide-template

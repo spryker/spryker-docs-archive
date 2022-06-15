@@ -1,5 +1,6 @@
 ---
 title: Choosing a mount mode
+search: exclude
 description: Learn about supported mount modes and how to choose one.
 last_updated: May 25, 2021
 template: howto-guide-template

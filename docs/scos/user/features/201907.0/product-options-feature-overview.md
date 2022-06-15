@@ -1,5 +1,6 @@
 ---
 title: Product Options feature overview
+search: exclude
 description: The article describes the creation process of product options and how it is managed in the Back Office
 last_updated: Nov 22, 2019
 template: concept-topic-template

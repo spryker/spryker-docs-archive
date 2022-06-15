@@ -1,5 +1,6 @@
 ---
 title: Managing Customer Addresses
+search: exclude
 description: The guide provides procedures  on how to create, update, and view customer addresses in the Back Office
 last_updated: Jun 5, 2020
 template: back-office-user-guide-template

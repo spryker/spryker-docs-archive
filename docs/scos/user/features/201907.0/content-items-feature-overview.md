@@ -1,5 +1,6 @@
 ---
 title: Content Items feature overview
+search: exclude
 description: The feature allows working on the content and the content placement separately, meaning, you can easily create and later decide where to insert content
 last_updated: Dec 23, 2019
 template: concept-topic-template

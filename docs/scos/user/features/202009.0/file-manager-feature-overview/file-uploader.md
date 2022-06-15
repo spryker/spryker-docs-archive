@@ -1,5 +1,6 @@
 ---
 title: File uploader
+search: exclude
 description: The File Uploader feature is helpful when a Store Administrator needs to add instructions or additional documentation to the product as an attachment.
 last_updated: Jun 1, 2021
 template: concept-topic-template

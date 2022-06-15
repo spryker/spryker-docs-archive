@@ -1,5 +1,6 @@
 ---
 title: Users
+search: exclude
 description: The section can be used to create, update, and Back Office users, user groups and roles in the Back Office.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

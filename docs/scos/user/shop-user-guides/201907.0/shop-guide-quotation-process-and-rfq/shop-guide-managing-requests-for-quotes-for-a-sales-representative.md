@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Managing Requests for Quotes for a Sales Representative
+search: exclude
 description: The guide provides the procedures on how a sales representative can view, edit, suggest another price, and create an RFQ for a customer in the storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

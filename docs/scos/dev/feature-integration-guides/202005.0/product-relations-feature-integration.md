@@ -1,5 +1,6 @@
 ---
 title: Product Relations feature integration
+search: exclude
 description: Integrate the Product Relations feature into your project.
 last_updated: May 19, 2020
 template: feature-integration-guide-template

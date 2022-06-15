@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Shopping Lists
+search: exclude
 description: Use the procedures to create, update, share, and print shopping lists, dismiss shared shopping lists, and add items to a shopping list.
 last_updated: Dec 23, 2019
 template: howto-guide-template

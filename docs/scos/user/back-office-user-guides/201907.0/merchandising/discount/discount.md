@@ -1,5 +1,6 @@
 ---
 title: Discount
+search: exclude
 description: This section can be used to create discounts and specify their types, vouchers, and cart rules, as well as to define what and when to apply the discount to.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

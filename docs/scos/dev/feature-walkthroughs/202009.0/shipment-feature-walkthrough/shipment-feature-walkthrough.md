@@ -1,5 +1,6 @@
 ---
 title: Shipment feature walkthrough
+search: exclude
 last_updated: Aug 20, 2021
 description: The Shipment feature allows you to create and manage carrier companies and assign multiple delivery methods associated with specific stores, which your customers can select during the checkout
 template: concept-topic-template

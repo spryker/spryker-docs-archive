@@ -1,5 +1,6 @@
 ---
 title: Docker SDK quick start guide
+search: exclude
 description: Get started with Spryker Docker SDK.
 last_updated: May 25, 2021
 template: howto-guide-template

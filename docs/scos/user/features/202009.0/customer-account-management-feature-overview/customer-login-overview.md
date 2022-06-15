@@ -1,5 +1,6 @@
 ---
 title: Customer Login overview
+search: exclude
 description: Tailor customer registration to your needs. A customer can register with an email address and a password, or you can choose to ask for more details.
 last_updated: Apr 3, 2020
 template: concept-topic-template

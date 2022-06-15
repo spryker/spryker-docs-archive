@@ -1,5 +1,6 @@
 ---
 title: Managing Warehouses
+search: exclude
 description: Use the procedures to view and update warehouses in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

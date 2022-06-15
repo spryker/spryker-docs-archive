@@ -1,5 +1,6 @@
 ---
 title: Prices feature integration
+search: exclude
 description: The guide walks you through the process of installing the Volume Prices feature in your project.
 last_updated: Aug 27, 2020
 template: feature-integration-guide-template

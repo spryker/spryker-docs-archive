@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Managing Agent Account
+search: exclude
 description: Use the procedures to work on Agent-related tasks in the Storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

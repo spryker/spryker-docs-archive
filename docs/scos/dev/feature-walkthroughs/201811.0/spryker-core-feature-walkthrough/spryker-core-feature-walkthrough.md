@@ -1,5 +1,6 @@
 ---
 title: Spryker Core feature walkthrough
+search: exclude
 last_updated: Aug 20, 2021
 description: The Spryker Core feature represents a set of basic modules representing the Spryker Commerce OS.
 template: concept-topic-template

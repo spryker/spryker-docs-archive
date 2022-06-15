@@ -1,5 +1,6 @@
 ---
 title: Multiple Carts- Quick Order feature integration
+search: exclude
 description: The Quick Order Feature allows ordering products by entering SKU and quantity on one page. The guide describes how to integrate the feature into your project.
 last_updated: Dec 24, 2019
 template: feature-integration-guide-template

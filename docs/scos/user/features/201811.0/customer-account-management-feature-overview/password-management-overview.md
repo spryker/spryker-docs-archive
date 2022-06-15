@@ -1,5 +1,6 @@
 ---
 title: Password Management overview
+search: exclude
 description: All accounts are password protected. Passwords can easily be restored with a restore-password link.
 last_updated: Oct 28, 2019
 template: concept-topic-template

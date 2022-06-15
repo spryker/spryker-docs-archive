@@ -1,5 +1,6 @@
 ---
 title: Retrieving tax sets
+search: exclude
 description: Retrieve details information about tax sets of abstract products.
 last_updated: Feb 2, 2021
 template: glue-api-storefront-guide-template

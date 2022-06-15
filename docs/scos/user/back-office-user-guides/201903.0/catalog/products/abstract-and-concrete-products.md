@@ -1,5 +1,6 @@
 ---
 title: Abstract and Concrete Products
+search: exclude
 description: Create and manage abstract and concrete products throughout your online shop in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Arvato - Store Order
+search: exclude
 description: In this article, you can get details about the  Store Order service in the Arvato module.
 last_updated: Nov 22, 2019
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Klarna payment workflow
+search: exclude
 description: In this article, you will find part payment request flow with Klarna.
 last_updated: Apr 3, 2020
 template: concept-topic-template

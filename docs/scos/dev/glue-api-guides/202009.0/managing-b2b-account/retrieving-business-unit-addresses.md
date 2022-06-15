@@ -1,5 +1,6 @@
 ---
 title: Retrieving business unit addresses
+search: exclude
 description: Learn how to retrieve business unit addresses via Glue API.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

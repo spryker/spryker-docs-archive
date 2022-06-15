@@ -1,5 +1,6 @@
 ---
 title: Creating an Abstract Product and Product Bundles
+search: exclude
 description: Use the procedure to create an abstract product, set a price and validity period, define superattributes, images, and a store the product is available in.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

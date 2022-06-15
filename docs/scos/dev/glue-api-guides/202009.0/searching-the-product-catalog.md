@@ -1,5 +1,6 @@
 ---
 title: Searching the product catalog
+search: exclude
 description: This article provides a bunch of sample requests to be used to achieve the implementation of search options and gives explanations of request values.
 last_updated: Feb 19, 2021
 template: glue-api-storefront-guide-template

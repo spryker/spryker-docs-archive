@@ -1,5 +1,6 @@
 ---
 title: Punch Out
+search: exclude
 description: The Punch Out section is used by site administrators to maintain configuration connections to Spryker Commerce OS to procurement systems of different buyers.
 last_updated: Dec 23, 2019
 template: back-office-user-guide-template

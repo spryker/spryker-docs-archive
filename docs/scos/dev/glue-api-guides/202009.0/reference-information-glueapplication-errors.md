@@ -1,5 +1,6 @@
 ---
 title: Reference information- GlueApplication errors
+search: exclude
 description: Find out what common GlueAplication errors you can come across when sending and receiving data via the Glue API.
 last_updated: Jan 21, 2021
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Standard Filters overview
+search: exclude
 description: SCOS offers a variety of different filter types to ease the process of product discovery. These filters include single- or multi-select and range filters.
 last_updated: Sep 15, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Users Control
+search: exclude
 description: The section can be used to create, update, and Back Office users, user groups and roles in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

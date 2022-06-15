@@ -1,5 +1,6 @@
 ---
 title: Managing Company Roles
+search: exclude
 description: Use the procedures to create, update, delete, and assign company roles in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

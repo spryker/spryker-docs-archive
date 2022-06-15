@@ -1,5 +1,6 @@
 ---
 title: Glue API - Cart feature integration
+search: exclude
 last_updated: Jan 21, 2020
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/cart-feature-integration

@@ -1,5 +1,6 @@
 ---
 title: Handling Concurrent REST Requests and Caching with Etags
+search: exclude
 last_updated: Jan 17, 2020
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/handling-concurrent-rest-requests-and-caching-with-etags-201907

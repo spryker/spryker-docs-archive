@@ -1,5 +1,6 @@
 ---
 title: Persistent Cart Sharing feature module relations
+search: exclude
 template: feature-walkthrough-template
 ---
 

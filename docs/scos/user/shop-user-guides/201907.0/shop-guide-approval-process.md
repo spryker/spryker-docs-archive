@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Approval Process
+search: exclude
 description: Use the procedures to create the approve/buyer with limit roles, set up permissions to the approver and buyer role in the storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

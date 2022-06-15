@@ -1,5 +1,6 @@
 ---
 title: Sample Suite and Custom Suite
+search: exclude
 last_updated: Sep 25, 2019
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v1/docs/sample-suite-and-custom-suite

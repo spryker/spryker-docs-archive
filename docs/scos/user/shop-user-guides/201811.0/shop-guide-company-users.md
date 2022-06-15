@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Company Users
+search: exclude
 description: Use the procedures to create, edit, enable/disable or delete company users, and invite new users using a .CSV file on the Company Users page.
 last_updated: May 19, 2020
 template: howto-guide-template

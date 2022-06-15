@@ -1,5 +1,6 @@
 ---
 title: Authenticating as a customer
+search: exclude
 description: Retrieve customer authentication tokens to send requests to protected resources.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

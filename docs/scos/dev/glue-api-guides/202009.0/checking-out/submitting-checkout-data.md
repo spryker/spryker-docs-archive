@@ -1,5 +1,6 @@
 ---
 title: Submitting checkout data
+search: exclude
 description: Submit checkout data and retrieve information needed for completing checkout.
 last_updated: Jun 15, 2021
 template: glue-api-storefront-guide-template

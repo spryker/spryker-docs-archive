@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Business on Behalf
+search: exclude
 description: Use the procedures to select another company user to log in on behalf in the Storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

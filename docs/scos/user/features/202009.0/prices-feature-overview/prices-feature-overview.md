@@ -1,5 +1,6 @@
 ---
 title: Prices feature overview
+search: exclude
 description: In the article, you can find the price definition, its types, how the price is inherited and calculated.
 last_updated: Jul 9, 2021
 template: concept-topic-template

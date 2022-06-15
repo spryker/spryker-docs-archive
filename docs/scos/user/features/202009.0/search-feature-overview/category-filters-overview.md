@@ -1,5 +1,6 @@
 ---
 title: Category filters overview
+search: exclude
 description: You can add, rearrange and define filters for any given parameter in the category tree, such as price or brand.
 last_updated: Apr 30, 2021
 template: concept-topic-template

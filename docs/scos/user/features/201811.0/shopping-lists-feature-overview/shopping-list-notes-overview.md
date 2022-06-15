@@ -1,5 +1,6 @@
 ---
 title: Shopping List Notes overview
+search: exclude
 description: With the feature, you can leave and manage notes for each item in the order.
 last_updated: May 19, 2020
 template: concept-topic-template

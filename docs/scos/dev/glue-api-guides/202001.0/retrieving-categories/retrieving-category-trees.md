@@ -1,5 +1,6 @@
 ---
 title: Browsing a Category Tree
+search: exclude
 description: The article helps you get the full category tree, including information on a category node, as well as retrieve categories by product easily and quickly.
 last_updated: Aug 13, 2020
 template: glue-api-storefront-guide-template

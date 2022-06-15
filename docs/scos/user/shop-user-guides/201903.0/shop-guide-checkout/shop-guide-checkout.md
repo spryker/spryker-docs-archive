@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Checkout
+search: exclude
 description: The section can be used to buy products added to the cart by setting a delivery address, shipment details, a payment method and placing an order.
 last_updated: Jul 31, 2020
 template: howto-guide-template

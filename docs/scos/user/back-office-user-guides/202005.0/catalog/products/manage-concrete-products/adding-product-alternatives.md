@@ -1,5 +1,6 @@
 ---
 title: Adding Product Alternatives
+search: exclude
 description: The guide describes a procedure on how to add or remove alternatives to the products in the Back Office.
 last_updated: Jul 3, 2020
 template: back-office-user-guide-template

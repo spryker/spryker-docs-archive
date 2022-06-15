@@ -1,5 +1,6 @@
 ---
 title: Shared Carts feature integration
+search: exclude
 description: The Shared Carts Feature allows sharing shopping carts within an entire business unit. The guide describes how to integrate the feature into your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

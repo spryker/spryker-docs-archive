@@ -1,5 +1,6 @@
 ---
 title: Stores
+search: exclude
 description: The guide provides additional information you use when working with stores in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

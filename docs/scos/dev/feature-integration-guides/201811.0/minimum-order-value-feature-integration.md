@@ -1,5 +1,6 @@
 ---
 title: Minimum Order Value feature integration
+search: exclude
 description: The Minimum Order Value Feature allows setting a minimum threshold for customer's orders. The guide describes how to integrate the feature into your project.
 last_updated: Nov 21, 2019
 template: feature-integration-guide-template

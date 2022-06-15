@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Summary Step
+search: exclude
 description: Use the procedures to view and update shipment details, a payment method or billing address, and place the order in the Storefront.
 last_updated: Jul 29, 2020
 template: howto-guide-template

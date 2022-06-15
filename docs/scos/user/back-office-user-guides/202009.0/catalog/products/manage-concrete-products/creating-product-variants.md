@@ -1,5 +1,6 @@
 ---
 title: Creating a product variant
+search: exclude
 description: Use the guide to configure a product variant, set a price and validity period, make it searchable on the website, and more
 last_updated: May 14, 2021
 template: back-office-user-guide-template

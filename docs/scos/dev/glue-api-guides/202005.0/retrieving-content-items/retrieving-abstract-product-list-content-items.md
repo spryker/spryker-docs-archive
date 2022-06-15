@@ -1,5 +1,6 @@
 ---
 title: Getting Abstract Product List Content Item Data
+search: exclude
 description: Abstract Product List API provides resources to retrieve data on abstract products included in the Abstract Product List content item for all or specific locale
 last_updated: Sep 15, 2020
 template: glue-api-storefront-guide-template

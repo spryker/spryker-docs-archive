@@ -1,5 +1,6 @@
 ---
 title: Managing Wishlists
+search: exclude
 description: Using the PATCH, GET, DELETE, and POST request sent to the endpoints provided in the Wishlists API, you can create, access, modify, delete, and to get wishlists.
 last_updated: Mar 19, 2020
 template: glue-api-storefront-guide-template

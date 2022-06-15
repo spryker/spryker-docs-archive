@@ -1,5 +1,6 @@
 ---
 title: Asset management
+search: exclude
 description: Learn about the assets in Spryker and how you can manage them.
 last_updated: Sep 11, 2020
 template: concept-topic-template

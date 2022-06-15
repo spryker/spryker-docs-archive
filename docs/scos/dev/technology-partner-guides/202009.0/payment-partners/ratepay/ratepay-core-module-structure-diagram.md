@@ -1,5 +1,6 @@
 ---
 title: RatePay- Core Module Structure Diagram
+search: exclude
 description: This article includes module schema with the class structure and flow.
 last_updated: Aug 27, 2020
 template: concept-topic-template

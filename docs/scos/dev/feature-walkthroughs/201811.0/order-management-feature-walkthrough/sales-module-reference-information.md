@@ -1,5 +1,6 @@
 ---
 title: Sales
+search: exclude
 description: The module provides order management functionality obtained through the ZED UI that renders orders with details and the Client API to get customer orders
 last_updated: Oct 15, 2019
 template: feature-walkthrough-template

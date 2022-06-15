@@ -1,5 +1,6 @@
 ---
 title: PayOne - Authorization and Preauthorization Capture Flows
+search: exclude
 description: Payone module makes it possible for a project to choose which Payone flow it wants to implement- authorize or preauthorize + capture.
 last_updated: Apr 3, 2020
 template: concept-topic-template

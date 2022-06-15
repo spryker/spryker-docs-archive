@@ -1,5 +1,6 @@
 ---
 title: Product Groups feature overview
+search: exclude
 description: Product Groups feature allows product catalog managers to group products by attributes.
 last_updated: Sep 14, 2020
 template: concept-topic-template

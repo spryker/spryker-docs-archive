@@ -1,5 +1,6 @@
 ---
 title: Creating scheduled prices
+search: exclude
 description: This user guide is about scheduling price changes by creating product price schedules. This functionality is shipped with the Scheduled prices feature.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Redirects
+search: exclude
 description: The Redirects section is designed to set up URL redirects to a different URL, as well as add a status code in the Back Office.
 last_updated: Dec 21, 2019
 template: back-office-user-guide-template

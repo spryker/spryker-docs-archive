@@ -1,5 +1,6 @@
 ---
 title: Cart Integration
+search: exclude
 description: The guide describes the process of integrating the Cart feature into your project.
 last_updated: Apr 3, 2020
 template: feature-integration-guide-template

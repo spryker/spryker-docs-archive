@@ -1,5 +1,6 @@
 ---
 title: Creating Carrier Companies
+search: exclude
 last_updated: Dec 23, 2019
 template: back-office-user-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/creating-a-carrier-company

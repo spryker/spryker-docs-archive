@@ -1,5 +1,6 @@
 ---
 title: Creating a warehouse
+search: exclude
 description: Use the procedure to create warehouses and define warehouses per specific stores in the Back Office.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

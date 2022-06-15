@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Shipment Step
+search: exclude
 description: Use the procedure to select the shipment method and delivery date for the order in the Storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Configurable Bundle Feature Overview
+search: exclude
 description: A configurable bundle is a product bundle, that a customer can configure in the Storefront on the go by choosing the suggested concrete products.
 last_updated: Sep 15, 2020
 template: concept-topic-template

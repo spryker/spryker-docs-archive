@@ -1,5 +1,6 @@
 ---
 title: Refunds feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Refunds feature allows issuing refunds on orders
 template: concept-topic-template

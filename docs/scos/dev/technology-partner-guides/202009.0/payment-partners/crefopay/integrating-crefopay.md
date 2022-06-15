@@ -1,5 +1,6 @@
 ---
 title: Integrating CrefoPay
+search: exclude
 description: This article provides instructions on integrating CrefoPay into the Spryker Commerce OS.
 last_updated: Apr 23, 2021
 template: concept-topic-template

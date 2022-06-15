@@ -1,5 +1,6 @@
 ---
 title: Product Relations- module relations
+search: exclude
 description: Module relations of the product relations.
 last_updated: Feb 22, 2021
 template: feature-walkthrough-template

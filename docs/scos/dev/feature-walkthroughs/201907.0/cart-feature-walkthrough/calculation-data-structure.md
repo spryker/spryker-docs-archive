@@ -1,5 +1,6 @@
 ---
 title: Calculation Data Structure
+search: exclude
 description: The diagram in this topic covers the Calculation Data Structure, as well as the available transfer objects, fields and their descriptions.
 last_updated: Dec 23, 2019
 template: feature-walkthrough-template

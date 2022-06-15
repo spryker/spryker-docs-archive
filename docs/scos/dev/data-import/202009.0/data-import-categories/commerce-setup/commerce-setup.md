@@ -1,5 +1,6 @@
 ---
 title: Commerce Setup
+search: exclude
 last_updated: Aug 27, 2020
 template: data-import-template
 originalLink: https://documentation.spryker.com/v6/docs/commerce-setup

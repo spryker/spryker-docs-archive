@@ -1,5 +1,6 @@
 ---
 title: Managing Roles
+search: exclude
 description: Use the procedures to create, update or delete the role, add a rule for the role, and assign the role to a group in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

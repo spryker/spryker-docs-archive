@@ -1,5 +1,6 @@
 ---
 title: CMS Block
+search: exclude
 description: The subsection is designed to create, view and update CMS block content in the editor from the Back Office to display it later in the online store.
 last_updated: Feb 3, 2020
 template: back-office-user-guide-template

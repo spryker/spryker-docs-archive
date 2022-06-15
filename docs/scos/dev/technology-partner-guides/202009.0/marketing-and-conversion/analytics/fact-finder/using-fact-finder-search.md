@@ -1,5 +1,6 @@
 ---
 title: Using FACT-Finder search
+search: exclude
 description: FACT-Finder suggests error-tolerant on-site search. FACT-Finder delivers relevant results even when spelling errors and typos occur.
 last_updated: Aug 27, 2020
 template: howto-guide-template

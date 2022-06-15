@@ -1,5 +1,6 @@
 ---
 title: Managing Slots
+search: exclude
 description: Learn about slot management in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

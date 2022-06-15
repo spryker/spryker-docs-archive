@@ -1,5 +1,6 @@
 ---
 title: Configuring separators and default number of rows
+search: exclude
 description: Use the guide to configure separators and default number of rows
 last_updated: Jun 16, 2021
 template: howto-guide-template

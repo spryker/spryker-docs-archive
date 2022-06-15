@@ -1,5 +1,6 @@
 ---
 title: Product Reviews
+search: exclude
 description: The section is used to define the customers who can add reviews and ratings to products, as well as
 last_updated: May 19, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Reference information - Concrete Product
+search: exclude
 description: Use this section to learn more about the attributes you use when creating or updating product variants in the Back Office.
 last_updated: Jun 6, 2020
 template: back-office-user-guide-template

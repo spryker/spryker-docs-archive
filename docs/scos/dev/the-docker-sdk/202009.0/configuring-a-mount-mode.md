@@ -1,5 +1,6 @@
 ---
 title: Configuring a mount mode
+search: exclude
 description: Learn how to configure a mount mode.
 last_updated: May 25, 2021
 template: howto-guide-template

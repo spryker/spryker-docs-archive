@@ -1,5 +1,6 @@
 ---
 title: Managing Threshold Settings
+search: exclude
 description: Use the procedure to select a tax set applied to the threshold fee in the Back Office.
 last_updated: Jul 6, 2020
 template: back-office-user-guide-template

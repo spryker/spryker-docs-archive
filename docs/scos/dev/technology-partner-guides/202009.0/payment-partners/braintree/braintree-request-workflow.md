@@ -1,5 +1,6 @@
 ---
 title: Braintree - Request workflow
+search: exclude
 description: This article describes the request flow for the Braintree module in the Spryker Commerce OS.
 last_updated: Aug 27, 2020
 template: concept-topic-template

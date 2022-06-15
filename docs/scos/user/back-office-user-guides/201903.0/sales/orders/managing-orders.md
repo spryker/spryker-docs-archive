@@ -1,5 +1,6 @@
 ---
 title: Managing Orders
+search: exclude
 description: The guide provides instructions on how to manage orders including setting statuses for the order, claiming and commenting on orders in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

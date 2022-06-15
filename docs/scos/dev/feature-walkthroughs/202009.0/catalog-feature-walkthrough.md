@@ -1,5 +1,6 @@
 ---
 title: Catalog feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Catalog feature allows building and organizing products to meet your and your customer's demands, primarily to make sure everyone can quickly find what they are looking for
 template: concept-topic-template

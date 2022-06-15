@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Address Step
+search: exclude
 description: Use the procedures to create a delivery address, and assign multiple delivery addresses to the order in the Storefront.
 last_updated: Jul 31, 2020
 template: howto-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Agent Assist Feature Overview
+search: exclude
 description: An agent helps customers to perform activities in the online store and provides support by carrying out actions on customer's behalf in the web-shop
 last_updated: Nov 22, 2019
 template: concept-topic-template

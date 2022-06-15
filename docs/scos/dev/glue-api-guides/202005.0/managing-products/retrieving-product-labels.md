@@ -1,5 +1,6 @@
 ---
 title: Accessing Product Labels
+search: exclude
 description: The article explores how to retrieve a product label by the label ID or product provided in the Product Labels API.
 last_updated: Sep 14, 2020
 template: glue-api-storefront-guide-template

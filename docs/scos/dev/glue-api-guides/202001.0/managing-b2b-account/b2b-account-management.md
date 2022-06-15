@@ -1,5 +1,6 @@
 ---
 title: B2B Account Management
+search: exclude
 description: This section contains information on managing B2B accounts with the help of Spryker REST APIs.
 last_updated: Dec 27, 2019
 template: glue-api-storefront-guide-template

@@ -1,5 +1,6 @@
 ---
 title: PriceProduct module details- reference information
+search: exclude
 description: Learn the technical details of the PriceProduct module and price dimensions
 last_updated: Feb 11, 2021
 template: feature-walkthrough-template

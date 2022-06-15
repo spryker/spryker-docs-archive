@@ -1,5 +1,6 @@
 ---
 title: Shipment
+search: exclude
 description: The section can be used to create multiple shipping carriers and add shipment services and methods in the Back Office.
 last_updated: Dec 23, 2019
 template: back-office-user-guide-template

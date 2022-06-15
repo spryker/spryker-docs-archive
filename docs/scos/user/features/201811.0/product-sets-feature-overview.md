@@ -1,5 +1,6 @@
 ---
 title: Product Sets feature overview
+search: exclude
 description: Learn about the modules that build up the Product Set feature
 last_updated: Oct 28, 2019
 template: concept-topic-template

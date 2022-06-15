@@ -1,5 +1,6 @@
 ---
 title: Navigation feature overview
+search: exclude
 description: The navigation is built in a tree structure to support multiple levels of linking, e.g. to categories, external links, search results and CMS pages.
 last_updated: Nov 5, 2019
 template: concept-topic-template

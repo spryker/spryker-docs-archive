@@ -1,5 +1,6 @@
 ---
 title: Product Lists feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Product Lists feature allows configuring product availability for specific companies by blacklisting or whitelisting products for them.
 template: concept-topic-template

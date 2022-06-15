@@ -1,5 +1,6 @@
 ---
 title: Configuring debugging in Docker
+search: exclude
 description: Learn how to configure debugging in Docker.
 last_updated: May 25, 2021
 template: howto-guide-template

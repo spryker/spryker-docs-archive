@@ -1,5 +1,6 @@
 ---
 title: CMS Extension Points
+search: exclude
 description: The CMS module provides an extension point for post activation and deactivation of CMS pages.
 last_updated: Jan 24, 2020
 template: feature-walkthrough-template

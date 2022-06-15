@@ -1,5 +1,6 @@
 ---
 title: Tax feature walkthrough
+search: exclude
 last_updated: Aug 20, 2021
 description: The Tax module is responsible for handling tax rates that can apply for products, product options or shipment.
 template: feature-walkthrough-template

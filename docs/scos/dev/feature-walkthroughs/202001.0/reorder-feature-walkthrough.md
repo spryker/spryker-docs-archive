@@ -1,5 +1,6 @@
 ---
 title: Reorder feature walkthrough
+search: exclude
 last_updated: Aug 19, 2021
 description: The Reorder feature allows customers to repeat their previous orders in one click
 template: concept-topic-template

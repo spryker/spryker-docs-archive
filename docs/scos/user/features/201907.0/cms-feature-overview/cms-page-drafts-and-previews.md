@@ -1,5 +1,6 @@
 ---
 title: CMS Page Drafts and Previews
+search: exclude
 description: With the CMS draft feature, a Back Office user can create drafts of CMS pages without affecting the current live version of the page.
 last_updated: Nov 22, 2019
 template: concept-topic-template

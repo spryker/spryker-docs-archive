@@ -1,5 +1,6 @@
 ---
 title: Managing Reclamations
+search: exclude
 description: The guide provides instructions for shop owners to learn how to handle all order claims made by their customers and make refunds if needed in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

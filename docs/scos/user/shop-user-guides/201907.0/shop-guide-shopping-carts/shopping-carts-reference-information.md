@@ -1,5 +1,6 @@
 ---
 title: Shopping Carts- Reference Information
+search: exclude
 description: The guide provides additional information you see when managing shopping carts in the storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

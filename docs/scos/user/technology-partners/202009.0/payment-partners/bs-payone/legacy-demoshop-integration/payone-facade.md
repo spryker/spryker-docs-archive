@@ -1,5 +1,6 @@
 ---
 title: PayOne - Facade
+search: exclude
 description: This article includes facade methods provided by Payone.
 last_updated: Aug 27, 2020
 template: concept-topic-template

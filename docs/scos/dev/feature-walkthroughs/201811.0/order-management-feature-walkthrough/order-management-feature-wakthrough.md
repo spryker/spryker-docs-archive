@@ -1,5 +1,6 @@
 ---
 title: Order Management feature walkthrough
+search: exclude
 last_updated: Aug 18, 2021
 description: The Order Management feature adds a collection of functionalities that allow you to see the quantity of the order items, their status, and how long they exist.
 template: concept-topic-template

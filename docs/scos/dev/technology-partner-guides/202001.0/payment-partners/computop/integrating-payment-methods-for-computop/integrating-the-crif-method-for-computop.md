@@ -1,5 +1,6 @@
 ---
 title: Integrating the CRIF payment method for Computop
+search: exclude
 description: In this article, you can find information on the CRIF process for Spryker Commerce OS.
 last_updated: Mar 5, 2020
 template: concept-topic-template

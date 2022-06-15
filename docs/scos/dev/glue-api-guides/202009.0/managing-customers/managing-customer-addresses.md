@@ -1,5 +1,6 @@
 ---
 title: Managing customer addresses
+search: exclude
 description: Create, retrieve and delete customer addresses via Glue API.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

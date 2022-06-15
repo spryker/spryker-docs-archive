@@ -1,5 +1,6 @@
 ---
 title: Managing gift cards of registered users
+search: exclude
 description: Retrieve details about gift cards of the registered users, and learn what else you can do with the resource.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

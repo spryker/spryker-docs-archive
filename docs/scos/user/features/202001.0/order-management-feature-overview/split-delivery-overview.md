@@ -1,5 +1,6 @@
 ---
 title: Split Delivery Overview
+search: exclude
 description: The feature allows delivering order items to different shipping addresses and on different days, with different shipment methods.
 last_updated: Jan 6, 2020
 template: concept-topic-template

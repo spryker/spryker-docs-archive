@@ -1,5 +1,6 @@
 ---
 title: Customer Access feature overview
+search: exclude
 description: The Customer Access feature allows deciding whether certain information is visible to logged out users or not
 last_updated: May 11, 2021
 template: concept-topic-template

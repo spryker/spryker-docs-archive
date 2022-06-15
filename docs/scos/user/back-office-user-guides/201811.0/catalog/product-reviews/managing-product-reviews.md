@@ -1,5 +1,6 @@
 ---
 title: Managing Product Reviews
+search: exclude
 description: Use this guide to check the reviews, change their status, and delete inappropriate ones in the Back Office.
 last_updated: Oct 23, 2019
 template: back-office-user-guide-template

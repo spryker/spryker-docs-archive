@@ -1,5 +1,6 @@
 ---
 title: Glue API - Checkout feature integration
+search: exclude
 last_updated: Sep 8, 2020
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v6/docs/glue-api-checkout-feature-integration

@@ -1,5 +1,6 @@
 ---
 title: Search Widget for Concrete Products Overview
+search: exclude
 description: Search widget adds allows users to easily search and add concrete products directly from shopping cart/list pages.
 last_updated: Nov 22, 2019
 template: concept-topic-template

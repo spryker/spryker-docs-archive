@@ -1,5 +1,6 @@
 ---
 title: Integrating Inxmail
+search: exclude
 description: Integrate Inxmail in the Spryker Commerce OS
 last_updated: Jun 16, 2021
 template: howto-guide-template

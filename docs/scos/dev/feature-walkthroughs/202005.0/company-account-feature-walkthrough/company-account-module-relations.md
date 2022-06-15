@@ -1,5 +1,6 @@
 ---
 title: Company account- module relations
+search: exclude
 description: Explore the module relations of the Company Account features
 last_updated: May 28, 2021
 template: feature-walkthrough-template

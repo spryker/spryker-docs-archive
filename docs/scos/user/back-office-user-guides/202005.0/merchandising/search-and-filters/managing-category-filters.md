@@ -1,5 +1,6 @@
 ---
 title: Managing Category Filters
+search: exclude
 description: Use the procedure to arrange items into categories, manage category filters by adding, reordering, or removing them in the Back Office.
 last_updated: Jul 6, 2020
 template: back-office-user-guide-template

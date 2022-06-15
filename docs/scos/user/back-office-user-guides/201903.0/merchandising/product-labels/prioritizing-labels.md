@@ -1,5 +1,6 @@
 ---
 title: Prioritizing Labels
+search: exclude
 description: Use the procedure to set a specific order for product labels to display them in the storefront that fits your preferences.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

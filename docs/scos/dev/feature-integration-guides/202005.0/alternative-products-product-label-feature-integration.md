@@ -1,5 +1,6 @@
 ---
 title: Alternative Products- Product Label feature integration
+search: exclude
 description: The guide describes the procedure that you need to perform in order to integrate the Alternative Products + Product Label feature into your project.
 last_updated: Apr 24, 2020
 template: feature-integration-guide-template

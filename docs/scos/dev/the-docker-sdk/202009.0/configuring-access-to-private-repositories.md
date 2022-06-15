@@ -1,5 +1,6 @@
 ---
 title: Configuring access to private repositories
+search: exclude
 description: Configure your local environment to access private repositories.
 last_updated: May 25, 2021
 template: howto-guide-template

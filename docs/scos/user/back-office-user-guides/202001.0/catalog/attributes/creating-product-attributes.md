@@ -1,5 +1,6 @@
 ---
 title: Creating Product Attributes
+search: exclude
 description: Use the Creating a product attribute procedure to add an attribute key, a super attribute and other values to create an attribute.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

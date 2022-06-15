@@ -1,5 +1,6 @@
 ---
 title: Cart Notes overview
+search: exclude
 description: Customers can add notes to a particular item or the whole cart, e.g some special instructions about how to prepare and deliver an order.
 last_updated: Nov 22, 2019
 template: concept-topic-template

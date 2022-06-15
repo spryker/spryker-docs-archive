@@ -1,5 +1,6 @@
 ---
 title: Creating and managing delivery methods
+search: exclude
 description: Use the procedures to create a delivery method, activate it, set a price and tax set, and define a delivery method per store in the Back Office.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

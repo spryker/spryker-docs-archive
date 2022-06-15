@@ -1,5 +1,6 @@
 ---
 title: Retrieving Content Item Data
+search: exclude
 last_updated: Nov 22, 2019
 template: glue-api-storefront-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/retrieving-content-item-data-201907

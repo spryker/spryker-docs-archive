@@ -1,5 +1,6 @@
 ---
 title: Scheduled Prices
+search: exclude
 description: The Scheduled Prices section is designed to import predefined product price schedules which are to be applied to existing products automatically in the future.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

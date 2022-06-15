@@ -1,5 +1,6 @@
 ---
 title: Content Item Widgets
+search: exclude
 description: This section is designed to add content items to pages and blocks using the content item widgets in the Back Office.
 last_updated: Feb 4, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Availability Notification feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Availability Notification feature allows customers to subscribe to product availability notifications of out-of-stock products.
 template: concept-topic-template

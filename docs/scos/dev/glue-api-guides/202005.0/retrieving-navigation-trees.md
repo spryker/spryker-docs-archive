@@ -1,5 +1,6 @@
 ---
 title: Retrieving Navigation Trees
+search: exclude
 description: The topic demonstrates how to retrieve navigation trees with the help of API endpoints.
 last_updated: Sep 14, 2020
 template: glue-api-storefront-guide-template

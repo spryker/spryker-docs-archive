@@ -1,5 +1,6 @@
 ---
 title: Using FACT-Finder campaigns
+search: exclude
 description: The FACT-Finder Campaign Manager module allows you to target the management of search results in order to improve the customer lead process or deliberately highlight products.
 last_updated: Nov 22, 2019
 template: howto-guide-template

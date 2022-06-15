@@ -1,5 +1,6 @@
 ---
 title: Impersonating customers as an agent assist
+search: exclude
 description: As an agent assist, authenticate as a customer and impersonate them.
 last_updated: Feb 9, 2021
 template: glue-api-storefront-guide-template

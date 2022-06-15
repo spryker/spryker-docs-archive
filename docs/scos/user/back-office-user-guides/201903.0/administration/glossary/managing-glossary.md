@@ -1,5 +1,6 @@
 ---
 title: Managing Glossary
+search: exclude
 description: he guide provides instructions for shop owners to learn how to create and handle information in different languages in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

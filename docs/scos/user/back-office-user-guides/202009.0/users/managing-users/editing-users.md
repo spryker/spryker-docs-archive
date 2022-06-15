@@ -1,5 +1,6 @@
 ---
 title: Editing users
+search: exclude
 description: Learn how to edit users in the Back Office
 template: back-office-user-guide-template
 ---

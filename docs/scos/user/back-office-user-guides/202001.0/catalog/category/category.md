@@ -1,5 +1,6 @@
 ---
 title: Category
+search: exclude
 description: The section is designed to manage products under the category according to a specific criterion, including search and filter them in the online store.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

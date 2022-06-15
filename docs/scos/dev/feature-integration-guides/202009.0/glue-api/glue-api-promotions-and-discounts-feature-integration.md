@@ -1,5 +1,6 @@
 ---
 title: Glue API - Promotions and discounts feature integration
+search: exclude
 description: Use the guide to install the Promotions and Discounts feature in your project.
 last_updated: Oct 26, 2020
 template: feature-integration-guide-template

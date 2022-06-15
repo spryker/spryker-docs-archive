@@ -1,5 +1,6 @@
 ---
 title: File Manager
+search: exclude
 description: The section can be used to upload media files, build a file tree structure, view existing files, and set MIME types in the Back Office.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

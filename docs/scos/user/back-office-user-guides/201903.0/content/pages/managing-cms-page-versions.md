@@ -1,5 +1,6 @@
 ---
 title: CMS Pages Versioning
+search: exclude
 description: The guide provides instructions on how to view CMS page versions, roll back to a specific version or view SEO information in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: How translations are managed
+search: exclude
 last_updated: Aug 20, 2021
 description: The key concept for rendering web pages with translated content very fast and with limited resource usage is using a key-value storage
 template: concept-topic-template

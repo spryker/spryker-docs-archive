@@ -1,5 +1,6 @@
 ---
 title: Tax feature overview
+search: exclude
 description: With the Tax feature you can define taxes for the items you sell.
 last_updated: Apr 3, 2020
 template: concept-topic-template

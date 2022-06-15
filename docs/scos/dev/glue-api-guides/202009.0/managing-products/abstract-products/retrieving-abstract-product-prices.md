@@ -1,5 +1,6 @@
 ---
 title: Retrieving abstract product prices
+search: exclude
 description: Retrieve details information about prices of abstract products.
 last_updated: Feb 2, 2021
 template: glue-api-storefront-guide-template

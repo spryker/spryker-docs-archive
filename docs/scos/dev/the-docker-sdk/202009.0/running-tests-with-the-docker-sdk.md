@@ -1,5 +1,6 @@
 ---
 title: Running tests with the Docker SDK
+search: exclude
 description: Learn how to run tests with the Docker SDK.
 last_updated: May 25, 2021
 template: howto-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Shopping Lists feature overview
+search: exclude
 description: A general overview of the Multiple and shared shopping lists feature.
 originalArticleId: 14a7fa1b-699d-46ee-b0c8-2a8bf3b93fa2
 redirect_from:

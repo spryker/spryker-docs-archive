@@ -1,5 +1,6 @@
 ---
 title: Inventory Management feature walkthrough
+search: exclude
 last_updated: Aug 13, 2021
 description: The Inventory Management feature adds stock and availability management as well as multiple warehouse stock management for products
 template: concept-topic-template

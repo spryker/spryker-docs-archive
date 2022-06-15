@@ -1,5 +1,6 @@
 ---
 title: Deleting users
+search: exclude
 description: Learn how to delete users in the Back Office
 last_updated: Aug 2, 2021
 template: back-office-user-guide-template

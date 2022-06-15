@@ -1,5 +1,6 @@
 ---
 title: Managing Company Users
+search: exclude
 description: Use the procedures to create, edit, enable/disable, delete, and attach company users to business units in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

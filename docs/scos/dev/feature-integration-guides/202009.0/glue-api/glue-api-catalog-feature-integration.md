@@ -1,5 +1,6 @@
 ---
 title: Glue API - Catalog feature integration
+search: exclude
 description: Use the guide to install the Glue Catalog feature in your project.
 last_updated: Aug 27, 2020
 template: feature-integration-guide-template

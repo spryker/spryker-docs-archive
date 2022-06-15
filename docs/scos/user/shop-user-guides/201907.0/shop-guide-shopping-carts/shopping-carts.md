@@ -1,5 +1,6 @@
 ---
 title: Shopping Carts
+search: exclude
 description: The section can be used to create and manage shopping carts in the customer account.
 last_updated: Nov 22, 2019
 template: howto-guide-template

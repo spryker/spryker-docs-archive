@@ -1,5 +1,6 @@
 ---
 title: Resource Sharing feature integration
+search: exclude
 description: The guide walks you through the process of installing the Resource Sharing feature in your project.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

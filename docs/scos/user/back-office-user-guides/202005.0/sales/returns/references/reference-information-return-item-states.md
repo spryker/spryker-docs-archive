@@ -1,5 +1,6 @@
 ---
 title: Reference information - return item states
+search: exclude
 description: This guide provides reference information on  return item states.
 last_updated: Aug 3, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Order Thresholds feature overview
+search: exclude
 description: Order thresholds allow you to control the values of the orders your customers place. You can define a maximum or a minimum value that should be reached for an order to be placed.
 last_updated: May 28, 2021
 template: concept-topic-template

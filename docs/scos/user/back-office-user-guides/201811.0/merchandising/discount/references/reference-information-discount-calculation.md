@@ -1,5 +1,6 @@
 ---
 title: Reference information - Discount Calculation
+search: exclude
 description: The guide provides additional information on the values you use when working with discount calculations in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

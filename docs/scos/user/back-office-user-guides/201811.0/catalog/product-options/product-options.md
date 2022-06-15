@@ -1,5 +1,6 @@
 ---
 title: Product Options
+search: exclude
 description: This section can be used if you want to add some additional services to your product- gift wrappings, insurance, etc.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

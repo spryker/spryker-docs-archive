@@ -1,5 +1,6 @@
 ---
 title: Reference information - Payment Methods
+search: exclude
 description: Use the guide to learn additional information about the attributes you can use when managing payment methods in the Back Office.
 last_updated: Dec 10, 2019
 template: back-office-user-guide-template

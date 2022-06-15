@@ -1,5 +1,6 @@
 ---
 title: Integrating Computop
+search: exclude
 last_updated: Dec 8, 2020
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v6/docs/computop-integration-into-project

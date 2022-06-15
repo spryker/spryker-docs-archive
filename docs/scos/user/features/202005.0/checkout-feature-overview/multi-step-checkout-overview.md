@@ -1,5 +1,6 @@
 ---
 title: Multi-Step Checkout
+search: exclude
 description: The checkout is based on a flexible step engine and can be adjusted to any use case.
 last_updated: Oct 29, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Voucher Codes- Reference Information
+search: exclude
 description: This guide provides reference information when working with voucher codes in the Back Office.
 last_updated: Oct 23, 2019
 template: back-office-user-guide-template

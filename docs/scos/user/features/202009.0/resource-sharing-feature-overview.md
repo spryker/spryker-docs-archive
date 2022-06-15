@@ -1,5 +1,6 @@
 ---
 title: Resource Sharing feature overview
+search: exclude
 description: The feature allows you to generate a link to your cart and share it within your business unit with various access permissions
 template: concept-topic-template
 ---

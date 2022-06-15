@@ -1,5 +1,6 @@
 ---
 title: Special product types import category
+search: exclude
 last_updated: Jun 17, 2021
 template: data-import-template
 ---

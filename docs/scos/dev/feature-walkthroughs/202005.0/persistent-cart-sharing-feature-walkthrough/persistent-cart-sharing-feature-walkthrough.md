@@ -1,5 +1,6 @@
 ---
 title: Persistent Cart Sharing feature walkthrough
+search: exclude
 last_updated: Aug 18, 2021
 description: The Persistent Cart Sharing feature allows company users to generate the URL to share the cart with different levels of access.
 template: concept-topic-template

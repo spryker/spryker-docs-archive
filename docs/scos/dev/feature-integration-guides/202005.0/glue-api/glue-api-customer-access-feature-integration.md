@@ -1,5 +1,6 @@
 ---
 title: Glue API - Customer Access feature integration
+search: exclude
 description: Use the guide to install the Customer Access API feature in your project.
 last_updated: Sep 14, 2020
 template: feature-integration-guide-template

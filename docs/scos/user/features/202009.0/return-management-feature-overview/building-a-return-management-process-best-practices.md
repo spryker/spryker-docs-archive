@@ -1,5 +1,6 @@
 ---
 title: Building a return management process - Best practices
+search: exclude
 description: Choose a suitable return management process for your project.
 last_updated: Oct 12, 2020
 template: concept-topic-template

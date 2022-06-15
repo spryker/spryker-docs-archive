@@ -1,5 +1,6 @@
 ---
 title: Product Sets
+search: exclude
 description: This section is used if you want to create or update s product set based on specific relations, as well as activate or deactivate them in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

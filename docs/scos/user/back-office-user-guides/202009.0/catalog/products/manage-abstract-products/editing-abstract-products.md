@@ -1,5 +1,6 @@
 ---
 title: Editing abstract products
+search: exclude
 description: Learn how to edit abstract products in the Back Office.
 last_updated: May 19, 2021
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Managing CMS Blocks
+search: exclude
 description: The guide provides procedures on how to view, update, activate and deactivate CMS blocks in the editor from the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

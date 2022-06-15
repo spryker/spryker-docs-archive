@@ -1,5 +1,6 @@
 ---
 title: Managing Customers
+search: exclude
 description: This guide provides instructions on how shop owners can add and manage personal information, customer billing, and shipping addresses in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Adding Volume Prices to Abstract Products
+search: exclude
 description: Use the guide to set or update discounts to products purchased in bulk from the Back Office.
 last_updated: Feb 4, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Retrieving protected resources
+search: exclude
 description: The article describes how to retrieve a list of resources protected from unauthorized access.
 last_updated: Feb 8, 2021
 template: glue-api-storefront-guide-template

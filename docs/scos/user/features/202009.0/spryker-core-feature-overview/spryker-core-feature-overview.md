@@ -1,5 +1,6 @@
 ---
 title: Spryker Core feature overview
+search: exclude
 last_updated: Jun 1, 2021
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v6/docs/spryker-core

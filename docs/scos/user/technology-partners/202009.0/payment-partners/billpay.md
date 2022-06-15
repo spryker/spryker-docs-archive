@@ -1,5 +1,6 @@
 ---
 title: Billpay
+search: exclude
 description: Billpay is the provider for the preferred, local payment methods Invoice, Direct Debit and Installments.
 last_updated: Aug 27, 2020
 template: concept-topic-template

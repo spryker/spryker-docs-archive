@@ -1,5 +1,6 @@
 ---
 title: Availability  Notification feature overview
+search: exclude
 description: The feature allows both registered and guest users to subscribe to the newsletter by specifying the email address they wish to receive the notifications to
 last_updated: Nov 18, 2020
 template: concept-topic-template

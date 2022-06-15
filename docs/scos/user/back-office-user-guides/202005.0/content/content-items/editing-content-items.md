@@ -1,5 +1,6 @@
 ---
 title: Editing Content Items
+search: exclude
 description: The guide provides steps on how to update content items in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

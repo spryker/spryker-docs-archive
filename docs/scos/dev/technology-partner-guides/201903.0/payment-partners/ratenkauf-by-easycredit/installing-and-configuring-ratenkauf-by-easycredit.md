@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring ratenkauf by easyCredit
+search: exclude
 description: This article contains installation and configuration information for the ratenkauf by easyCredit module into the Spryker-based shop.
 last_updated: Jul 31, 2020
 template: concept-topic-template

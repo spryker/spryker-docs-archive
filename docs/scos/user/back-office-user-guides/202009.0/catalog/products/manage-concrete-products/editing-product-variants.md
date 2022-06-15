@@ -1,5 +1,6 @@
 ---
 title: Editing a product variant
+search: exclude
 description: The guide describes how to update the product variant in the Back Office.
 last_updated: Sep 14, 2020
 template: back-office-user-guide-template

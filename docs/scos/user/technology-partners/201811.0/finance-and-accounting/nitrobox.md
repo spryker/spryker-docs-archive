@@ -1,5 +1,6 @@
 ---
 title: Nitrobox
+search: exclude
 description: Integrate Nitrobox to model, automate and API control customer financial processes.
 last_updated: Oct 2, 2019
 template: concept-topic-template

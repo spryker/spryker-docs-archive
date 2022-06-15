@@ -1,5 +1,6 @@
 ---
 title: Product Sets feature integration
+search: exclude
 description: Learn how to integrate the Product sets feature into a Spryker project.
 last_updated: Apr 14, 2021
 template: feature-integration-guide-template

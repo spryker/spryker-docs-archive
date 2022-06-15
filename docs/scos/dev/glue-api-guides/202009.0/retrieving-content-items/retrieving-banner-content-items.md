@@ -1,5 +1,6 @@
 ---
 title: Retrieving banner content items
+search: exclude
 description: Retrieve information about banner content items via Glue API.
 last_updated: Feb 1, 2021
 template: glue-api-storefront-guide-template

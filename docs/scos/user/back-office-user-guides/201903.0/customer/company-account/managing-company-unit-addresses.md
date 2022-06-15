@@ -1,5 +1,6 @@
 ---
 title: Managing Company Unit Addresses
+search: exclude
 description: Use the procedures to create and update company unit addresses after company units have been created in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

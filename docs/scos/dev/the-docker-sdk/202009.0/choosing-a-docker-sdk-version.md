@@ -1,5 +1,6 @@
 ---
 title: Choosing a Docker SDK version
+search: exclude
 description: Learn how to choose a versioning approach and configure a particular version of Docker SDK for your project.
 last_updated: Apr 03, 2022
 template: howto-guide-template

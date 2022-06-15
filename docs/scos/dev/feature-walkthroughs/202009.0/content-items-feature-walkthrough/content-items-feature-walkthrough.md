@@ -1,5 +1,6 @@
 ---
 title: Content Items feature walkthrough
+search: exclude
 last_updated: Aug 25, 2021
 description: The Content Items feature creates an abstraction layer for content management in the Back Office.
 template: concept-topic-template

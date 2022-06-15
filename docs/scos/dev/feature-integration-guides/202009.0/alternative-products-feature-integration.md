@@ -1,5 +1,6 @@
 ---
 title: Alternative products feature integration
+search: exclude
 description: This guide walks you through the process of installing the Alternative Products feature into your project.
 last_updated: Dec 3, 2020
 template: feature-integration-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Tax feature walkthrough
+search: exclude
 last_updated: Aug 20, 2021
 description: "The Tax feature allows you to define taxes for the items you sell. The feature is represented by two entities: tax rates and tax sets"
 template: concept-topic-template

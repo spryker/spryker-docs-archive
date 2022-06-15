@@ -1,5 +1,6 @@
 ---
 title: Managing merchant order thresholds
+search: exclude
 description: Use the procedures to edit soft and hard thresholds per specific merchant relationship in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

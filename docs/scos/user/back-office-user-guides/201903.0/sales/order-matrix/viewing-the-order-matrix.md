@@ -1,5 +1,6 @@
 ---
 title: Viewing the Order Matrix
+search: exclude
 description: The guide provides reference information you see when working with the ordered items in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

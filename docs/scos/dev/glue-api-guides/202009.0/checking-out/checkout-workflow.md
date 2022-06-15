@@ -1,5 +1,6 @@
 ---
 title: Checkout workflow
+search: exclude
 description: Checkout workflow of Glue API.
 last_updated: Nov 30, 2020
 template: glue-api-storefront-guide-template

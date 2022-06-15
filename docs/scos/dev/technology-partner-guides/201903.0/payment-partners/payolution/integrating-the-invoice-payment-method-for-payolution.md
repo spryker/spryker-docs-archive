@@ -1,5 +1,6 @@
 ---
 title: Integrating the invoice paymnet method for Payolution
+search: exclude
 description: Integrate invoice payment through Payolution into the Spryker-based shop.
 last_updated: Jul 31, 2020
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Order Thresholds feature overview
+search: exclude
 description: Define a minimum order value for orders placed by buyers. Minimum order value (also referred to as threshold) is a monetary value stipulated by a shop owner.
 last_updated: Nov 22, 2019
 template: concept-topic-template

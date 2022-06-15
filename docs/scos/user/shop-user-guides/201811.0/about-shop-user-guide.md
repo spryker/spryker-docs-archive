@@ -1,5 +1,6 @@
 ---
 title: About Shop User Guide
+search: exclude
 description: This section contains instructions on working with Demo Shop interface.
 last_updated: May 19, 2020
 template: howto-guide-template

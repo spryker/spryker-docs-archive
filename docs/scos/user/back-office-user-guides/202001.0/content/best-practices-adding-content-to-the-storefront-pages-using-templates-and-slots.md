@@ -1,5 +1,6 @@
 ---
 title: Adding Content to Storefront Pages Using Templates & Slots
+search: exclude
 description: Templates with slots allows managing all the Storefront content in the Back Office.
 last_updated: Mar 25, 2020
 template: back-office-user-guide-template

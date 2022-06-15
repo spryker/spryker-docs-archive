@@ -1,5 +1,6 @@
 ---
 title: Shipment feature overview
+search: exclude
 description: With the feature, you can create and manage carrier companies and their delivery methods per specific store.
 last_updated: Feb 8, 2021
 template: concept-topic-template

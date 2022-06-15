@@ -1,5 +1,6 @@
 ---
 title: Approval Process feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Approval Process feature allows managers to control purchases requested by their employees
 template: concept-topic-template

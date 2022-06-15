@@ -1,5 +1,6 @@
 ---
 title: Scheduled Prices Feature Overview
+search: exclude
 description: The article describes the Scheduled Prices feature, price types, time zones, and the way scheduled prices can be created.
 last_updated: Sep 14, 2020
 template: concept-topic-template

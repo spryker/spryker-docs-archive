@@ -1,5 +1,6 @@
 ---
 title: Managing carts of registered users
+search: exclude
 description: Retrieve details about the carts of the registered users and learn what else you can do with the resource.
 last_updated: Mar 17, 2021
 template: glue-api-storefront-guide-template

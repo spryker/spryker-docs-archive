@@ -1,5 +1,6 @@
 ---
 title: Product Set feature integration
+search: exclude
 description: The Product Sets feature allows you to put together multiple products for the purpose of emphasizing that the set of products can be bought together.
 last_updated: Nov 26, 2019
 template: feature-integration-guide-template

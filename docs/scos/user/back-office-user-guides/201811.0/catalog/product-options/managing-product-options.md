@@ -1,5 +1,6 @@
 ---
 title: Managing Product Options
+search: exclude
 description: Use this section to view the product option details in the Back Office.
 last_updated: Sep 10, 2019
 template: back-office-user-guide-template

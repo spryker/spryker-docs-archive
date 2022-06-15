@@ -1,5 +1,6 @@
 ---
 title: Managing Carts of Registered Users
+search: exclude
 description: This article describes the endpoints that provide access to shopping carts management functionality for the carts of the registered users.
 last_updated: Aug 13, 2020
 template: glue-api-storefront-guide-template

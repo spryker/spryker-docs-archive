@@ -1,5 +1,6 @@
 ---
 title: Spryker Core Back Office feature walkthrough
+search: exclude
 last_updated: The Spryker Core Back Office feature adds a comprehensive, intuitive administration area
 description:
 template: concept-topic-template

@@ -1,5 +1,6 @@
 ---
 title: Editing CMS pages
+search: exclude
 description: The guide provides instructions on how to update page layout, SEO data and page content in the Back Office.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: Payments feature walkthrough
+search: exclude
 last_updated: Aug 18, 2021
 description: The Payments feature allows customers to pay for orders with none, one, or multiple payment methods during the checkout process.
 template: concept-topic-template

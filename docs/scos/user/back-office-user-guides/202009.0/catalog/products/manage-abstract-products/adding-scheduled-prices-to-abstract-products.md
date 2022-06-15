@@ -1,5 +1,6 @@
 ---
 title: Adding scheduled prices to abstract products
+search: exclude
 description: Learn how to add scheduled prices to abstract products in the Back Office.
 last_updated: Jun 3, 2021
 template: back-office-user-guide-template

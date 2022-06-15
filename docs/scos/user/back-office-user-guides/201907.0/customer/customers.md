@@ -1,5 +1,6 @@
 ---
 title: Customers
+search: exclude
 description: The Customers section is designed for managing customer's data such as personal information, billing, and shipping addresses.
 last_updated: Dec 23, 2019
 template: back-office-user-guide-template

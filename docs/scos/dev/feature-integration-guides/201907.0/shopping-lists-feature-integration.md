@@ -1,5 +1,6 @@
 ---
 title: Shopping Lists feature integration
+search: exclude
 last_updated: Jan 28, 2020
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v3/docs/shopping-lists-feature-integration

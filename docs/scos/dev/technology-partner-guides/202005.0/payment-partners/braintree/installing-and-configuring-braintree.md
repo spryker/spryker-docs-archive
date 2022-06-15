@@ -1,5 +1,6 @@
 ---
 title: Braintree - Configuration
+search: exclude
 description: This article contains information on configuring the Braintree module for the Spryker Commerce OS.
 last_updated: Apr 3, 2020
 template: concept-topic-template

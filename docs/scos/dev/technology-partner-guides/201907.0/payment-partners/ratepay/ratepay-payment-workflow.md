@@ -1,5 +1,6 @@
 ---
 title: RatePay - Payment Workflow
+search: exclude
 description: This article describes the request flow that uses Ratepay.
 last_updated: Nov 22, 2019
 template: concept-topic-template

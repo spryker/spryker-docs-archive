@@ -1,5 +1,6 @@
 ---
 title: Custom Order Reference- Module Relations
+search: exclude
 last_updated: Sep 14, 2020
 template: feature-walkthrough-template
 originalLink: https://documentation.spryker.com/v5/docs/custom-order-reference-module-relations

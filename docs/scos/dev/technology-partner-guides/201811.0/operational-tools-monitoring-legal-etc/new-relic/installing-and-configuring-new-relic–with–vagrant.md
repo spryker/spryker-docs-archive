@@ -1,5 +1,6 @@
 ---
 title: Installing and configuring New Relic with Vagrant
+search: exclude
 template: howto-guide-template
 related:
   - title: Migration Guide - Session

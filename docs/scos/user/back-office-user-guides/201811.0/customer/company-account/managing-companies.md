@@ -1,5 +1,6 @@
 ---
 title: Managing Companies
+search: exclude
 description: Use the procedures to create and edit companies, approve and activate/deactivate a company, and/or deny a company in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

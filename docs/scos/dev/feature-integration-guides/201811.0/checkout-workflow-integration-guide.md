@@ -1,5 +1,6 @@
 ---
 title: Checkout Workflow Integration Guide
+search: exclude
 last_updated: Jul 31, 2019
 template: feature-integration-guide-template
 originalLink: https://documentation.spryker.com/v1/docs/checkout-workflow-integration

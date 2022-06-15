@@ -1,5 +1,6 @@
 ---
 title: Glue API - Cart feature integration
+search: exclude
 description: Install the Cart API feature in your project.
 last_updated: Aug 13, 2020
 template: feature-integration-guide-template

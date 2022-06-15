@@ -1,5 +1,6 @@
 ---
 title: Payments feature overview
+search: exclude
 description: Orders can be paid with none, one or multiple payment methods that can be selected during checkout. Offer multiple payment methods for a single order.
 last_updated: Mar 19, 2021
 template: concept-topic-template

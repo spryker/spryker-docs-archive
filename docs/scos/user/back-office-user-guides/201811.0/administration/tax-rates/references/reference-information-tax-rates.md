@@ -1,5 +1,6 @@
 ---
 title: Reference information - Taxes Rates
+search: exclude
 description: The guide provides additional information on the values you use when managing tax rates and tax sets in the Back Office.
 last_updated: Sep 18, 2019
 template: back-office-user-guide-template

@@ -1,5 +1,6 @@
 ---
 title: CMS Block Widget feature integration
+search: exclude
 description: The CMS Block Widget feature allows adding content snippets to a page. This guide walks you through the process of integrating the feature into your project.
 last_updated: Dec 24, 2019
 template: feature-integration-guide-template

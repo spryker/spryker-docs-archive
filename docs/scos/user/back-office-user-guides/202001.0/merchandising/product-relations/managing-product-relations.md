@@ -1,5 +1,6 @@
 ---
 title: Managing Product Relations
+search: exclude
 description: Use these procedures to view, update, activate or deactivate, and/or delete a product relation in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

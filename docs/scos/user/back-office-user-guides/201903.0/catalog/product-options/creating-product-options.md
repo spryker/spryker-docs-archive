@@ -1,5 +1,6 @@
 ---
 title: Creating Product Options
+search: exclude
 description: Use this procedure to create a product option along with its values in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

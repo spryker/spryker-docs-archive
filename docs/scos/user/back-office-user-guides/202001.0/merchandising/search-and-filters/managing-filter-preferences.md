@@ -1,5 +1,6 @@
 ---
 title: Managing Filter Preferences
+search: exclude
 description: Use the procedure to reorder filters, specify a filter type and add translations to the filter name in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

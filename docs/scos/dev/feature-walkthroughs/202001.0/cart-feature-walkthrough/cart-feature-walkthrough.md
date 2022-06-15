@@ -1,5 +1,6 @@
 ---
 title: Cart feature walkthrough
+search: exclude
 last_updated: Aug 12, 2021
 description: The Cart feature provides functionality of the shopping cart and cart total calculations
 template: concept-topic-template

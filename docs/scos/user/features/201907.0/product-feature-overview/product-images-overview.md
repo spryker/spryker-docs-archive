@@ -1,5 +1,6 @@
 ---
 title: Product Images overview
+search: exclude
 description: Group several images into sets and link them to products. One product can have several named and localized sets of images.
 last_updated: Nov 22, 2019
 template: concept-topic-template

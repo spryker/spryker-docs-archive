@@ -1,5 +1,6 @@
 ---
 title: Managing Punch out connections
+search: exclude
 description: The Managing Punch out Connections guide lists steps on how to create, edit, view, activate and deactivate Punch out connections.
 last_updated: Aug 27, 2020
 template: back-office-user-guide-template

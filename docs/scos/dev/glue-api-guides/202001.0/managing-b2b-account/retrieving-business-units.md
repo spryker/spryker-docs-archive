@@ -1,5 +1,6 @@
 ---
 title: Retrieving Business Units
+search: exclude
 description: The article describes how to use Spryker Glue API to retrieve business unit information.
 last_updated: Aug 13, 2020
 template: glue-api-storefront-guide-template

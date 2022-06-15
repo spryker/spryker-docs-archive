@@ -1,5 +1,6 @@
 ---
 title: Integrating ratenkauf by easyCredit
+search: exclude
 description: This article provides step-by-step instruction on how to integrate ratenkauf by easyCredit payment into your project.
 last_updated: Dec 8, 2020
 template: concept-topic-template

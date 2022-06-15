@@ -1,5 +1,6 @@
 ---
 title: CMS pages in search results overview
+search: exclude
 description: The CMS Pages in Search Results feature allows searching not only for products but for CMS pages content as well.
 last_updated: Jul 31, 2020
 template: concept-topic-template

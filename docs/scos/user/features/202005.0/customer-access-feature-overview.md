@@ -1,5 +1,6 @@
 ---
 title: Customer Access feature overview
+search: exclude
 description: Hide Content from Logged out Users allows deciding whether certain information is visible to logged out users or not
 last_updated: Apr 3, 2020
 template: concept-topic-template

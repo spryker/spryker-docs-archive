@@ -1,5 +1,6 @@
 ---
 title: Integrating Braintree
+search: exclude
 description: This guide provides steps to integrate Braintree in the Spryker frontend.
 last_updated: Dec 8, 2020
 template: concept-topic-template

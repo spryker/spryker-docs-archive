@@ -1,5 +1,6 @@
 ---
 title: Shopping Lists feature integration
+search: exclude
 description: This guide walks you through the process of installing the Shopping lists feature into your project.
 last_updated: Jan 28, 2020
 template: feature-integration-guide-template

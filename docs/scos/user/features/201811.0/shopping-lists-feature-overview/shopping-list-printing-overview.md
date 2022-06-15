@@ -1,5 +1,6 @@
 ---
 title: Shopping list printing overview
+search: exclude
 description: With the feature in place, shop visitors can print their own shopping lists and shopping lists shared with them from their account or Shopping list view page.
 last_updated: May 19, 2020
 template: concept-topic-template

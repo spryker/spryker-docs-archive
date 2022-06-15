@@ -1,5 +1,6 @@
 ---
 title: Creating CMS Blocks
+search: exclude
 description: The guide provides instructions on how to create a CMS block in the Back Office.
 last_updated: May 19, 2020
 template: back-office-user-guide-template

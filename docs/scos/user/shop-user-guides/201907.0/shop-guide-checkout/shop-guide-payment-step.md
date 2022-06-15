@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Payment Step
+search: exclude
 description: The guide provides the procedure to select a payment method for the order in the Storefront.
 last_updated: Nov 22, 2019
 template: howto-guide-template

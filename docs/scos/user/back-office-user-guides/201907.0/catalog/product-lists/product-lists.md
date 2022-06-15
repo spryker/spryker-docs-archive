@@ -1,5 +1,6 @@
 ---
 title: Product Lists
+search: exclude
 description: The section is used to define product restrictions for product sets by adding them to an appropriate product list in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

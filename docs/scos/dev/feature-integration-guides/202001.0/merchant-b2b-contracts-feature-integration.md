@@ -1,5 +1,6 @@
 ---
 title: Merchant B2B Contracts feature integration
+search: exclude
 description: The guide walks you through the process of installing the Merchant Contracts feature into the project.
 last_updated: Mar 6, 2020
 template: feature-integration-guide-template

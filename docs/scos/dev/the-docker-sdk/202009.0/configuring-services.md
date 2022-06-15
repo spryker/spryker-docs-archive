@@ -1,5 +1,6 @@
 ---
 title: Configuring services
+search: exclude
 description: Learn how to configure services.
 last_updated: May 26, 2021
 template: howto-guide-template

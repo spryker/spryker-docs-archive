@@ -1,5 +1,6 @@
 ---
 title: Reference information - Attributes
+search: exclude
 description: Use this section to check the values you add, edit, or view when managing attributes in the Back Office.
 last_updated: Nov 22, 2019
 template: back-office-user-guide-template

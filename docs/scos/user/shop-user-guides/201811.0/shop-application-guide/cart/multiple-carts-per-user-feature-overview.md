@@ -1,5 +1,6 @@
 ---
 title: Multiple Carts per User Feature Overview
+search: exclude
 last_updated: Jun 11, 2019
 template: howto-guide-template
 originalLink: https://documentation.spryker.com/v1/docs/multiple-carts-per-user-feature-overview

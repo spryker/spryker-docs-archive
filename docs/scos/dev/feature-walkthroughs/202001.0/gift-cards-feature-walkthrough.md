@@ -1,5 +1,6 @@
 ---
 title: Gift Cards feature walkthrough
+search: exclude
 last_updated: Sep 28, 2021
 description: The Gift Cards feature enables you to create a virtual product (a gift card) with a chosen value amount
 template: concept-topic-template

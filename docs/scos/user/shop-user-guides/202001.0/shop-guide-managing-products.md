@@ -1,5 +1,6 @@
 ---
 title: Shop Guide - Managing Products
+search: exclude
 description: Use the guide to learn how to manage products in the online store, add products to the cart, shopping list and wishlist, as well as add reviews.
 last_updated: Mar 23, 2020
 template: howto-guide-template

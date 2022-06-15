@@ -1,5 +1,6 @@
 ---
 title: Return Management Feature Overview
+search: exclude
 description: This Article provides a description for the feature Return Management in the Spryker Commerce OS.
 last_updated: Sep 14, 2020
 template: concept-topic-template

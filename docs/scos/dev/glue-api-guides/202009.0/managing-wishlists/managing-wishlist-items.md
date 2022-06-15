@@ -1,5 +1,6 @@
 ---
 title: Managing wishlist items
+search: exclude
 description: Add and delete items from wishlists via Glue API.
 last_updated: Feb 24, 2021
 template: glue-api-storefront-guide-template

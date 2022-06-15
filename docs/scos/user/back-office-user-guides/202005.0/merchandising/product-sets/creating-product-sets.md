@@ -1,5 +1,6 @@
 ---
 title: Creating Product Sets
+search: exclude
 description: Use the procedure to create a product set with the entered required values in the Back Office.
 last_updated: Sep 15, 2020
 template: back-office-user-guide-template

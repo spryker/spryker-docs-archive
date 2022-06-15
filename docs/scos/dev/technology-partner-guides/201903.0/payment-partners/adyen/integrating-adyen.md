@@ -1,5 +1,6 @@
 ---
 title: Integrating Adyen
+search: exclude
 description: Integrate the Adyen module into the Spryker Commerce OS.
 last_updated: Nov 22, 2019
 template: concept-topic-template

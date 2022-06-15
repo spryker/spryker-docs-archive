@@ -1,5 +1,6 @@
 ---
 title: CMS feature walkthrough
+search: exclude
 last_updated: Aug 13, 2021
 description: The CMS feature adds a content management system that allows creating and managing the content of custom pages that are not part of the product catalog
 template: concept-topic-template

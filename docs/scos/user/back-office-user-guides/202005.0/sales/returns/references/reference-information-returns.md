@@ -1,5 +1,6 @@
 ---
 title: Reference information - returns
+search: exclude
 description: The guide provides reference information you see when working with returns in the Back Office.
 last_updated: Aug 3, 2020
 template: back-office-user-guide-template

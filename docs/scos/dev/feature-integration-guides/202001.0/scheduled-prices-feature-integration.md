@@ -1,5 +1,6 @@
 ---
 title: Scheduled Prices feature integration
+search: exclude
 description: Use the guide to install the Scheduled Prices feature into your project.
 last_updated: Mar 6, 2020
 template: feature-integration-guide-template

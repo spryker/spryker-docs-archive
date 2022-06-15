@@ -1,5 +1,6 @@
 ---
 title: Navigation
+search: exclude
 description: The section can be used to create navigation elements with CMS pages, categories, and other relevant links, and build a nested structure with nodes.
 last_updated: Nov 26, 2019
 template: back-office-user-guide-template

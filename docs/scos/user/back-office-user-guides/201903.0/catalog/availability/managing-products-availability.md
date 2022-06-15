@@ -1,5 +1,6 @@
 ---
 title: Managing Products Availability
+search: exclude
 description: This guide provides steps on how to check whether products are in stock in the warehouse of the current store in the Back Office.
 last_updated: Jul 31, 2020
 template: back-office-user-guide-template

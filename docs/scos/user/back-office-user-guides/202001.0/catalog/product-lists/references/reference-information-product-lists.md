@@ -1,5 +1,6 @@
 ---
 title: Reference information - Product Lists
+search: exclude
 description: This guide provides reference information you use when creating, updating, and managing product list in the Back Office.
 last_updated: Jan 9, 2020
 template: back-office-user-guide-template

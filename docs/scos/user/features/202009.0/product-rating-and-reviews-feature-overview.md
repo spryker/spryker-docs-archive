@@ -1,5 +1,6 @@
 ---
 title: Product Rating and Reviews feature overview
+search: exclude
 description: The Product Reviews feature allows customers to add reviews and ratings to abstract products.
 last_updated: Apr 8, 2021
 template: concept-topic-template

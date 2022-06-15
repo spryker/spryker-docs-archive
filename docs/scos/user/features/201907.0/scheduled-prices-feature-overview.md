@@ -1,5 +1,6 @@
 ---
 title: Scheduled Prices Feature Overview
+search: exclude
 last_updated: Nov 22, 2019
 template: concept-topic-template
 originalLink: https://documentation.spryker.com/v3/docs/scheduled-prices-feature-overview

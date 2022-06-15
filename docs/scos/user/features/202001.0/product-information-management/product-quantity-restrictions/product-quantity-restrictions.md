@@ -1,5 +1,6 @@
 ---
 title: Product Quantity Restrictions
+search: exclude
 description: The feature enables you to restrict the amount of products your customers are allowed to put to cart (by specifying minimum, maximum, and interval values).
 last_updated: Oct 29, 2020
 template: concept-topic-template

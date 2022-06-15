@@ -1,5 +1,6 @@
 ---
 title: PlusServer
+search: exclude
 description: Monitor the performance of your Spryker Commerce OS by integrating PlusServer into your online shop.
 last_updated: Apr 3, 2020
 template: concept-topic-template

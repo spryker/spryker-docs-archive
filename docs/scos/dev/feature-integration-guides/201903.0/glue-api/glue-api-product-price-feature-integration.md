@@ -1,5 +1,6 @@
 ---
 title: Glue API - Price feature integration
+search: exclude
 description: This guide will navigate through the process of installing and configuring of the Price API feature used in Spryker OS.
 last_updated: Nov 22, 2019
 template: feature-integration-guide-template

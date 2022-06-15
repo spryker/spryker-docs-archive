@@ -1,5 +1,6 @@
 ---
 title: Powerpay
+search: exclude
 description: Deliver results for your merchants by integrating Powerpay into the Spryker Commerce OS.
 last_updated: Aug 27, 2020
 template: concept-topic-template

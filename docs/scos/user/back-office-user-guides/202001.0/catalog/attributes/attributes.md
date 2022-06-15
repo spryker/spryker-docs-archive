@@ -1,5 +1,6 @@
 ---
 title: Attributes
+search: exclude
 description: Use the Attributes  section to add super attributes to product variants to highlight its specific peculiarities.
 last_updated: Dec 21, 2019
 template: back-office-user-guide-template

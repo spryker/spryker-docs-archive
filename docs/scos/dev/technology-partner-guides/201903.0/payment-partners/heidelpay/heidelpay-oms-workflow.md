@@ -1,5 +1,6 @@
 ---
 title: Heidelpay OMS workflow
+search: exclude
 last_updated: Nov 4, 2020
 template: concept-topic-template
 ---

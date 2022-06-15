@@ -1,5 +1,6 @@
 ---
 title: Navigation Module
+search: exclude
 description: The module provides database structure and a public API to manage what’s in the database, and a small toolkit for rendering navigation menus in the frontend
 last_updated: Nov 22, 2019
 template: feature-walkthrough-template

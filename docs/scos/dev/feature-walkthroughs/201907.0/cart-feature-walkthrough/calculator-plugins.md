@@ -1,5 +1,6 @@
 ---
 title: Calculator Plugins
+search: exclude
 description: The information in this topic covers the available calculator plugins along with their examples.
 last_updated: Nov 22, 2019
 template: feature-walkthrough-template

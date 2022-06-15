@@ -1,5 +1,6 @@
 ---
 title: RatePay facade methods
+search: exclude
 description: This article includes facade methods provided by Ratepay.
 last_updated: Aug 27, 2020
 template: concept-topic-template

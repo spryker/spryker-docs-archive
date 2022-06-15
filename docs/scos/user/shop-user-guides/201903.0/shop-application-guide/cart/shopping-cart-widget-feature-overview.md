@@ -1,5 +1,6 @@
 ---
 title: Shopping Cart Widget Feature Overview
+search: exclude
 last_updated: Nov 22, 2019
 template: howto-guide-template
 originalLink: https://documentation.spryker.com/v2/docs/shopping-cart-widget-feature-overview

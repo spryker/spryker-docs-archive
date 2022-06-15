@@ -1,5 +1,6 @@
 ---
 title: Integrating Econda front end
+search: exclude
 description: Integrate frontend of the Econda module into the Spryker Commerce OS.
 last_updated: Sep 15, 2020
 template: concept-topic-template

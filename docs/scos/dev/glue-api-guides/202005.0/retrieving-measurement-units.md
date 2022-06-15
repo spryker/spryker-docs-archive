@@ -1,5 +1,6 @@
 ---
 title: Retrieving Measurement Units
+search: exclude
 description: Retrieve details about measurement units and learn what else you can do with the resource.
 last_updated: Sep 14, 2020
 template: glue-api-storefront-guide-template
