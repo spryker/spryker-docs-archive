@@ -14,7 +14,7 @@ Spryker SDK facilitates Glue API Resource development by providing a set of code
 
 {% info_block infoBox %}
 
-For more information on _Spryks_, see [Spryk](/docs/scos/dev/sdk/development-tools/spryk-code-generator.html).
+For more information on _Spryks_, see [Spryk](https://docs.spryker.com/docs/scos/dev/sdk/development-tools/spryk-code-generator.html).
 
 {% endinfo_block %}
 
@@ -169,6 +169,6 @@ For more details, see section **Generic Rest Response** in [Glue Infrastructure
 
 {% info_block infoBox %}
 
-For more details, see [Validating REST Request Format](/docs/scos/dev/tutorials-and-howtos/introduction-tutorials/glue-api/validating-rest-request-format.html).
+For more details, see [Validating REST Request Format](https://docs.spryker.com/docs/scos/dev/tutorials-and-howtos/introduction-tutorials/glue-api/validating-rest-request-format.html).
 
 {% endinfo_block %}

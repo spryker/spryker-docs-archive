@@ -30,7 +30,7 @@ Efficiently keep track of your order processing and ensure quick fulfillment. Ma
 
 **Features:**
 
-- [Order Process Modelling via State Machines](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/state-machine/order-process-modelling-via-state-machines.html)
+- [Order Process Modelling via State Machines](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/state-machine/order-process-modelling-via-state-machines.html)
 - [OMS \(Order Management System\) Matrix](/docs/scos/user/features/{{page.version}}/order-management-feature-overview/oms-order-management-system-matrix.html)
 - [Reorder](/docs/scos/user/features/{{page.version}}/reorder-feature-overview.html)
 - [Splittable Order Items](/docs/scos/user/features/{{page.version}}/order-management-feature-overview/splittable-order-items-overview.html)

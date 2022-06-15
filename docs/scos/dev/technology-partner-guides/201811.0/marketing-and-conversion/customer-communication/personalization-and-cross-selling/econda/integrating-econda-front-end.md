@@ -23,7 +23,7 @@ related:
 
 {% info_block infoBox "Info" %}
 
-Check [this article](/docs/scos/user/intro-to-spryker/master-suite.html) to learn about Spryker Commerce OS (SCOS).
+Check [this article](https://docs.spryker.com/docs/scos/user/intro-to-spryker/master-suite.html) to learn about Spryker Commerce OS (SCOS).
 
 {% endinfo_block %}
 

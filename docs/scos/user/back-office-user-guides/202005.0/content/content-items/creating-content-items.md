@@ -64,7 +64,7 @@ See [Content Items: Reference Information](/docs/scos/user/back-office-user-guid
   {% info_block infoBox "Multi-language setup" %}
 
   The following logic applies in a multi-language setup:
-   * Locale-specific values overwrite the default values when the Banner is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+   * Locale-specific values overwrite the default values when the Banner is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
    * If the fields are not filled out for a locale, the default values are displayed on a Storefront page with the locale selected.
 
   {% endinfo_block %}
@@ -120,7 +120,7 @@ Follow the steps to create an Abstract Product List:
   {% info_block infoBox "Multi-language setup" %}
 
   The following logic applies in a multi-language setup:
-   * Locale-specific products overwrite the default products when the Abstract Product List is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+   * Locale-specific products overwrite the default products when the Abstract Product List is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
    * If no products are selected for a locale, the default products are displayed on a Storefront page with the locale selected.
 
   {% endinfo_block %}
@@ -172,7 +172,7 @@ Follow the steps to create a Product Set:
   {% info_block infoBox "Multi-language setup" %}
 
   The following logic applies in a multi-language setup:
-   * A locale-specific product set overwrites the default product set when the Product Set content item is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+   * A locale-specific product set overwrites the default product set when the Product Set content item is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
    * If no product set is selected for a locale, the default product set is displayed on a Storefront page with the locale selected.
 
   {% endinfo_block %}
@@ -225,7 +225,7 @@ Follow the steps to create a File List:
   {% info_block infoBox "Multi-language setup" %}
 
   The following logic applies in a multi-language setup:
-  * Locale-specific files overwrite the default files when the File List is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+  * Locale-specific files overwrite the default files when the File List is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
   * If no files are selected for a locale, the default files are displayed on a Storefront page with the locale selected.
 
   {% endinfo_block %}
@@ -267,7 +267,7 @@ To create a Navigation content item:
   {% info_block infoBox "Multi-language setup" %}
 
   The following logic applies in a multi-language setup:
-   * Locale-specific navigation element overwrites the default navigation element when rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+   * Locale-specific navigation element overwrites the default navigation element when rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
    * If no navigation element is selected for a locale, the default navigation element is displayed on a Storefront page with the locale selected.
 
   {% endinfo_block %}

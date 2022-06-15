@@ -21,7 +21,7 @@ related:
 ---
 
 {% info_block infoBox "Info" %}
-Check [this article](/docs/scos/user/intro-to-spryker/b2b-suite.html)
+Check [this article](https://docs.spryker.com/docs/scos/user/intro-to-spryker/b2b-suite.html)
  to learn about Spryker Commerce OS (SCOS).
 
  {% endinfo_block %}

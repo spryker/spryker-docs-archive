@@ -49,6 +49,6 @@ A Company Administrator needs to log out and then log in to refresh the changes.
 
 {% endinfo_block %}
 
-Don't forget to check out the video tutorial on setting up [Company](/docs/scos/user/features/{{page.version}}/company-account-feature-overview/company-accounts-overview.html) Structure in Spryker [B2B Demo Shop](/docs/scos/user/intro-to-spryker/b2b-suite.html):
+Don't forget to check out the video tutorial on setting up [Company](/docs/scos/user/features/{{page.version}}/company-account-feature-overview/company-accounts-overview.html) Structure in Spryker [B2B Demo Shop](https://docs.spryker.com/docs/scos/user/intro-to-spryker/b2b-suite.html):
 
 {% wistia qkdgkeannb 960 720 %}

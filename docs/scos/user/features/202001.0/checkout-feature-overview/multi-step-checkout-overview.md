@@ -22,13 +22,13 @@ The checkout is based on a flexible step engine and can be adjusted to any use c
 * Progress bar to navigate between checkout steps
 
 Developer:
-- [Get a general idea of the Checkout steps](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/checkout/checkout-steps.html)
+- [Get a general idea of the Checkout steps](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/checkout/checkout-steps.html)
 - [Get a general idea of the Checkout process](/docs/scos/user/features/{{page.version}}/checkout-feature-overview/checkout-feature-overview.html)
 - [Migrate the Checkout module from version 4.* to version 6.0.0](/docs/scos/dev/module-migration-guides/migration-guide-checkout.html#upgrading-from-version-4-to-version-600)
-- [Migrate the CheckoutPage module from version 2.* to version 3.*](/docs/scos/dev/module-migration-guides/migration-guide-checkoutpage.html)
+- [Migrate the CheckoutPage module from version 2.* to version 3.*](https://docs.spryker.com/docs/scos/dev/module-migration-guides/migration-guide-checkoutpage.html)
 
 Shop User:
-- [Get a general idea of the Checkout steps](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/checkout/checkout-steps.html)
+- [Get a general idea of the Checkout steps](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/checkout/checkout-steps.html)
 - [Get a general idea of the Checkout process](/docs/scos/user/features/{{page.version}}/checkout-feature-overview/checkout-feature-overview.html)
 - [Perform the Address Step](/docs/scos/user/shop-user-guides/{{page.version}}/shop-guide-checkout/shop-guide-address-step.html)
 - [Perform the Shipment Step](/docs/scos/user/shop-user-guides/{{page.version}}/shop-guide-checkout/shop-guide-shipment-step.html)

@@ -54,7 +54,7 @@ See [Content Items: Reference Information](/docs/scos/user/back-office-user-guid
 {% info_block infoBox "Multi-language setup" %}
 
 The following logic applies in a multi-language setup:
-* Locale-specific values overwrite the default values when the Banner is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+* Locale-specific values overwrite the default values when the Banner is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
 * If the fields are not filled out for a locale, the default values are displayed on a Storefront page with the locale selected.
 
 {% endinfo_block %}
@@ -105,7 +105,7 @@ See [Content Items: Reference Information](/docs/scos/user/back-office-user-guid
 {% info_block infoBox "Multi-language setup" %}
 
 The following logic applies in a multi-language setup:
-* Locale-specific products overwrite the default products when the Abstract Product List is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+* Locale-specific products overwrite the default products when the Abstract Product List is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
 * If no products are selected for a locale, the default products are displayed on a Storefront page with the locale selected.
 
 
@@ -157,7 +157,7 @@ See [Content Items: Reference Information](/docs/scos/user/back-office-user-guid
 {% info_block infoBox "Multi-language setup" %}
 
 The following logic applies in a multi-language setup:
-* A locale-specific product set overwrites the default product set when the Product Set content item is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+* A locale-specific product set overwrites the default product set when the Product Set content item is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
 * If no product set is selected for a locale, the default product set is displayed on a Storefront page with the locale selected.
 
 {% endinfo_block %}
@@ -210,7 +210,7 @@ See [Content Items: Reference Information](/docs/scos/user/back-office-user-guid
 {% info_block infoBox "Multi-language setup" %}
 
 The following logic applies in a multi-language setup:
-* Locale-specific files overwrite the default files when the File List is rendered on a Storefront page with the [locale](/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
+* Locale-specific files overwrite the default files when the File List is rendered on a Storefront page with the [locale](https://docs.spryker.com/docs/scos/dev/back-end-development/data-manipulation/datapayload-conversion/multi-language-setup.html) selected.
 * If no files are selected for a locale, the default files are displayed a Storefront page with the locale selected.
 
 {% endinfo_block %}

@@ -56,7 +56,7 @@ Once you click **Save**, the page is refreshed and you will see two additional t
 
 {% info_block errorBox "Important" %}
 
-To make sure your product wil be shown and searchable in your online store, we highly recommend you to go through the checklist in [HowTo - Make a Product Searchable and Shown on the Storefront](/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/howto-make-a-product-searchable-and-shown-on-the-storefront.html).
+To make sure your product wil be shown and searchable in your online store, we highly recommend you to go through the checklist in [HowTo - Make a Product Searchable and Shown on the Storefront](https://docs.spryker.com/docs/scos/dev/tutorials-and-howtos/howtos/feature-howtos/howto-make-a-product-searchable-and-shown-on-the-storefront.html).
 
 {% endinfo_block %}
 ***
